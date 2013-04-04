@@ -1,0 +1,2026 @@
+-----------------
+Output for Test 1
+-----------------
+<?xml version = "1.0" ?>
+
+<WorldCrises>
+  <Crisis crisisIdent = "E2001">
+    <Name>Enron Collapse</Name>
+    <Kind crisisKindIdent = "FC" />
+    <Location>
+      <Locality>Houston</Locality>
+      <Region>TX</Region>
+      <Country>United States</Country>
+    </Location>
+    <StartDateTime>
+      <Date>2001-08-14</Date>
+    </StartDateTime>
+    <HumanImpact>
+      <Type>Financial Loss</Type>
+      <Number>60000000000</Number>
+    </HumanImpact>
+    <EconomicImpact>Greatest stock value loss in peaceful times and the largest bankruptcy in American history.</EconomicImpact>
+    <ExternalResources>
+      <ImageURL>http://rememberinghistory.files.wordpress.com/2012/11/enron_logo.jpg%3Fw%3D610</ImageURL>
+      <VideoURL>http://www.youtube.com/watch?v=QS5aosxUfvY</VideoURL>
+      <MapURL>https://maps.google.com/maps?hl=enampq=1400+smith+street+houston+77002ampbav=on.2,or.r_gc.r_pw.r_cp.r_qf.ampbvm=bv.43287494,d.b2Iampbiw=640ampbih=679ampum=1ampie=UTF-8ampsa=Namptab=wl</MapURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent = "KLay" />
+      <RelatedPerson personIdent = "AGreenspan" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent = "SEC" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Crisis crisisIdent = "GD1929">
+    <Name>Great Depression</Name>
+    <Kind crisisKindIdent = "FC" />
+    <Location>
+      <Locality>New York City</Locality>
+      <Region>New York</Region>
+      <Country>United States</Country>
+    </Location>
+    <StartDateTime>
+      <Date>1929-10-29</Date>
+    </StartDateTime>
+    <EndDateTime>
+      <Date>1941-12-08</Date>
+    </EndDateTime>
+    <HumanImpact>
+      <Type>Financial loss and emotional struggle</Type>
+      <Number>0</Number>
+    </HumanImpact>
+    <EconomicImpact>US economy declined after the crash, and many other countries began to follow suit.</EconomicImpact>
+    <ExternalResources>
+      <ImageURL>http://upload.wikimedia.org/wikipedia/commons/5/54/Lange-MigrantMother02.jpg</ImageURL>
+      <VideoURL>http://www.youtube.com/watch?v=TpfY8kh5lUw</VideoURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent = "FDRoosevelt" />
+      <RelatedPerson personIdent = "BBernanke" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent = "FDIC" />
+      <RelatedOrganization organizationIdent = "FR" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Crisis crisisIdent = "FC2008">
+    <Name>2008 Financial Crisis</Name>
+    <Kind crisisKindIdent = "FC" />
+    <Location>
+      <Country>United States</Country>
+    </Location>
+    <StartDateTime>
+      <Date>2007-08-07</Date>
+    </StartDateTime>
+    <HumanImpact>
+      <Type>Financial Loss</Type>
+      <Number>60000000000</Number>
+    </HumanImpact>
+    <EconomicImpact>Declines in consumption and investment. Housing prices fell 20%.</EconomicImpact>
+    <ExternalResources>
+      <VideoURL>https://www.youtube.com/watch?v=N9YLta5Tr2A</VideoURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent = "GWBush" />
+      <RelatedPerson personIdent = "MDraghi" />
+      <RelatedPerson personIdent = "AGreenspan" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent = "FR" />
+      <RelatedOrganization organizationIdent = "ECB" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Crisis crisisIdent = "OC1973">
+    <Name>1973 Oil Crisis</Name>
+    <Kind crisisKindIdent = "EC" />
+    <Location>
+      <Country>United States</Country>
+    </Location>
+    <StartDateTime>
+      <Date>1973-10-16</Date>
+    </StartDateTime>
+    <EndDateTime>
+      <Date>1974-03-17</Date>
+    </EndDateTime>
+    <HumanImpact>
+      <Type>Financial loss as well as panic over the possibility of war.</Type>
+      <Number>0</Number>
+    </HumanImpact>
+    <EconomicImpact>The price of oil increased 400% leading to economic leverage and wealth for oil-producing countries in the middle east.</EconomicImpact>
+    <ExternalResources>
+      <ImageURL>http://upload.wikimedia.org/wikipedia/commons/e/ed/FLAG_POLICY_DURING_THE_1973_oil_crisis.gif</ImageURL>
+      <VideoURL>http://www.youtube.com/watch?v=VCLRlVxOH-Q</VideoURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent = "BBernanke" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent = "FR" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Crisis crisisIdent = "WTC2001">
+    <Name>World Trade Center Attacks</Name>
+    <Kind crisisKindIdent = "MC" />
+    <Location>
+      <Locality>New York City</Locality>
+      <Region>New York</Region>
+      <Country>United States</Country>
+    </Location>
+    <StartDateTime>
+      <Date>2001-09-11</Date>
+    </StartDateTime>
+    <HumanImpact>
+      <Type>Loss of the feeling of security. Increase in patriotism, home and family, church, and blood donations. Stocks fell and there was a huge loss over the months following.</Type>
+      <Number>0</Number>
+    </HumanImpact>
+    <EconomicImpact>Stock exchange closed for a week, stocks fell and billions of dollars were lost.</EconomicImpact>
+    <ExternalResources>
+      <ImageURL>http://spinalcolumnradio.files.wordpress.com/2010/07/911-twin-towers-fire.jpg</ImageURL>
+      <VideoURL>https://www.youtube.com/watch?v=_u9kieqGppE</VideoURL>
+      <MapURL>https://maps.google.com/maps?hl=enampq=1+world+trade+center+new+york+street+addressampie=UTF-8amphq=amphnear=0x89c25a1bcfb6ae35:0x83b61a4dc69b3439,One+World+Trade+Center,+Vesey+St,+New+York,+NY+10006ampgl=usampei=TEo4UdO5LIqA2gXlyYEQampved=0CDAQ8gEwAA</MapURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent = "GWBush" />
+      <RelatedPerson personIdent = "BHObama" />
+      <RelatedPerson personIdent = "SHussein" />
+      <RelatedPerson personIdent = "OBLaden" />
+      <RelatedPerson personIdent = "AGreenspan" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent = "CIA" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Crisis crisisIdent = "CE1970">
+    <Name>United States Corn Epidemic of 1970</Name>
+    <Kind crisisKindIdent = "E" />
+    <Location>
+      <Country>United States</Country>
+    </Location>
+    <StartDateTime>
+      <Date>1970-02-01</Date>
+    </StartDateTime>
+    <HumanImpact>
+      <Type>Financial loss and food shortage</Type>
+      <Number>0</Number>
+    </HumanImpact>
+    <EconomicImpact>Spikes in corn and livestock trading overnight, leading to some farmers becoming extremely wealthy overnight.</EconomicImpact>
+    <ExternalResources>
+      <ImageURL>http://www2.nau.edu/~bio372-c/images/sclb1s.gif</ImageURL>
+      <ImageURL>http://www2.nau.edu/~bio372-c/images/sclb4s.gif</ImageURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent = "FDRoosevelt" />
+      <RelatedPerson personIdent = "CMHardin" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent = "USDA" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Crisis crisisIdent = "WOT2001">
+    <Name>War on Terror</Name>
+    <Kind crisisKindIdent = "MC" />
+    <Location>
+      <Country>United States</Country>
+    </Location>
+    <StartDateTime>
+      <Date>2001-10-07</Date>
+    </StartDateTime>
+    <HumanImpact>
+      <Type>Led to a people's outcry for new leadership.</Type>
+      <Number>0</Number>
+    </HumanImpact>
+    <EconomicImpact>Spending was $1.2 trillion in 2011 and there was a long-term spending estimate of $5.4 trillion plus interest.</EconomicImpact>
+    <ExternalResources>
+      <ImageURL>http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/War_on_Terror_montage1.png/800px-War_on_Terror_montage1.png</ImageURL>
+      <VideoURL>https://www.youtube.com/watch?v=gnwZVv-axMw</VideoURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent = "GWBush" />
+      <RelatedPerson personIdent = "BHObama" />
+      <RelatedPerson personIdent = "SHussein" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent = "UN" />
+      <RelatedOrganization organizationIdent = "NATO" />
+      <RelatedOrganization organizationIdent = "AQ" />
+      <RelatedOrganization organizationIdent = "CIA" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Crisis crisisIdent = "WWII1939">
+    <Name>World War Two</Name>
+    <Kind crisisKindIdent = "MC" />
+    <Location>
+      <Country>Poland</Country>
+    </Location>
+    <StartDateTime>
+      <Date>1939-11-01</Date>
+    </StartDateTime>
+    <EndDateTime>
+      <Date>1945-08-14</Date>
+    </EndDateTime>
+    <HumanImpact>
+      <Type>Bombings, starvation, disease</Type>
+      <Number>0</Number>
+    </HumanImpact>
+    <EconomicImpact>US emerged much more wealthy than any other nation despite the global economy's heavy suffering.</EconomicImpact>
+    <ExternalResources>
+      <ImageURL>http://upload.wikimedia.org/wikipedia/commons/5/54/Infobox_collage_for_WWII.PNG</ImageURL>
+      <VideoURL>https://www.youtube.com/watch?v=ts-Ch2IaRh4</VideoURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent = "FDRoosevelt" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent = "UN" />
+      <RelatedOrganization organizationIdent = "CIA" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Crisis crisisIdent = "GEC2009">
+    <Name>Greek Economic Collapse</Name>
+    <Kind crisisKindIdent = "EC" />
+    <Location>
+      <Country>Greece</Country>
+    </Location>
+    <StartDateTime>
+      <Date>2009-12-01</Date>
+    </StartDateTime>
+    <HumanImpact>
+      <Type>Right-wing party linked to anti-immigrant violence.</Type>
+      <Number>0</Number>
+    </HumanImpact>
+    <EconomicImpact>Nearly brought down the entire country and removal from the European Union.</EconomicImpact>
+    <ExternalResources>
+      <ImageURL>http://wwp.greenwichmeantime.com/time-zone/europe/european-union/greece/images/greece-flag.jpg</ImageURL>
+      <VideoURL>http://www.youtube.com/watch?v=LVGQCFRn34M</VideoURL>
+      <MapURL>https://maps.google.com/maps?q=greeceampaq=fampum=1ampie=UTF-8amphl=enampsa=Namptab=wl</MapURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent = "MDraghi" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent = "UN" />
+      <RelatedOrganization organizationIdent = "ECB" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Crisis crisisIdent = "RFC2007">
+    <Name>Russian Financial Crisis</Name>
+    <Kind crisisKindIdent = "FC" />
+    <Location>
+      <Country>Russia</Country>
+    </Location>
+    <StartDateTime>
+      <Date>2007-08-07</Date>
+    </StartDateTime>
+    <HumanImpact>
+      <Type>Huge wave of unemployment and social unrest.</Type>
+      <Number>0</Number>
+    </HumanImpact>
+    <EconomicImpact>Inevitable recession, consumer price inflation, unemployment at a 7 year high.</EconomicImpact>
+    <ExternalResources>
+      <ImageURL>http://images.nationalgeographic.com/wpf/media-live/photos/000/060/cache/russia-st-basils_6026_600x450.jpg</ImageURL>
+      <VideoURL>https://www.youtube.com/watch?v=us1n3DRvLug</VideoURL>
+      <MapURL>http://www.lib.utexas.edu/maps/commonwealth/russia_auton_92.jpg</MapURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent = "MDraghi" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent = "UN" />
+      <RelatedOrganization organizationIdent = "ECB" />
+    </RelatedOrganizations>
+  </Crisis>
+
+
+  <Organization organizationIdent="USDA">
+    <Name>United States Department of Agriculture</Name>
+    <Kind organizationKindIdent="AD"/>
+    <Location>
+      <Locality>Washington</Locality>
+      <Region>D.C.</Region>
+      <Country>United States</Country>
+    </Location>
+    <History>On May 15, 1862, Abraham Lincoln signed into law the Agricultural Act that established the U.S. Department of Agriculture. Since then, the Department has had a rich and varied history. The resources below explore that history, along with the history and organization of USDA's associated agencies and staff offices.</History>
+    <ContactInfo>
+      <Telephone>202 720 2791</Telephone>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress>1400 Independence Ave., S.W.</StreetAddress>
+        <Locality>Washington</Locality>
+        <Region>D.C.</Region>
+        <PostalCode>20250</PostalCode>
+        <Country>United States</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>https://www.google.com/search?hl=enamprlz=1C2DVCR_enUS407US456ampq=USDA+imagesampbav=on.2,or.r_gc.r_pw.r_qf.ampbvm=bv.43287494,d.b2Iampbiw=1241ampbih=584ampum=1ampie=UTF-8amptbm=ischampsource=ogampsa=Namptab=wiampei=w_M3UfOvN4rA2AXRtoDYBQ#imgrc=3587T5k4YZYdfM%3A%3BDip-rsLNM2aALM%3Bhttp%253A%252F%252Fionenewsone.files.wordpress.com%252F2011%252F05%252Fusda_logo_rev.gif%3Bhttp%253A%252F%252Fnewsone.com%252F1227425%252Fusda-civil-rights-shirley-sherrod%252F%3B1233%3B850;</ImageURL>
+      <VideoURL>http://video.foxbusiness.com/v/2174388754001/usda-under-fire-for-controversial-cultural-sensitivity-training/;</VideoURL>
+      <MapURL>https://maps.google.com/maps?hl=enampq=1400+Independence+Ave.,+S.W.ampie=UTF-8amphq=amphnear=0x89b7b79fa4334315:0xfb36514e8557abaf,1400+Independence+Ave+SW,+Washington,+DC+20024ampgl=usampei=ePY3UeLYCqOU2wWR4IGoCgampved=0CDMQ8gEwAQ;</MapURL>
+      <SocialNetworkURL>http://www.facebook.com/pages/USDA/106119542761892?fref=ts</SocialNetworkURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="CE1970"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="GWBush"></RelatedPerson>
+      <RelatedPerson personIdent="BHObama"></RelatedPerson>
+      <RelatedPerson personIdent="CMHardin"></RelatedPerson>
+    </RelatedPersons>
+  </Organization>
+
+  <Organization organizationIdent="SEC">
+    <Name>U.S. Securities and Exchange Commission</Name>
+    <Kind organizationKindIdent="NS"/>
+    <Location>
+      <Locality>Washington</Locality>
+      <Region>D.C.</Region>
+      <Country>United States</Country>
+    </Location>
+    <History>Prior to the enactment of the federal securities laws and the creation of the SEC, there existed so-called blue sky laws. They were enacted and enforced at the state level, and regulated the offering and sale of securities to protect the public from fraud. Though the specific provisions of these laws varied among states, they all required the registration of all securities offerings and sales, as well as of every U.S. stock broker and brokerage firm.</History>
+    <ContactInfo>
+      <Telephone>202 942 8088</Telephone>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress>100 F Street, NE</StreetAddress>
+        <Locality>Washington</Locality>
+        <Region>D.C.</Region>
+        <PostalCode>20549</PostalCode>
+        <Country>United States</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>http://www.nysun.com/pics/8339.jpg</ImageURL>
+      <VideoURL>http://www.youtube.com/watch?feature=player_detailpageampv=N-kdGmt1OLs</VideoURL>
+      <MapURL>https://maps.google.com/maps?hl=enampq=map+of+the+us+securities+and+exchange+commissionampie=UTF-8ampei=KmdcUZ2_NsH0qAGQh4FQampsqi=2ampved=0CAgQ_AUoAg</MapURL>
+      <SocialNetworkURL>http://www.facebook.com/pages/US-Securities-and-Exchange-Commission/109531262399131?fref=ts</SocialNetworkURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="E2001"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="GWBush"></RelatedPerson>
+      <RelatedPerson personIdent="BHObama"></RelatedPerson>
+      <RelatedPerson personIdent="KLay"></RelatedPerson>
+    </RelatedPersons>
+  </Organization>
+
+  <Organization organizationIdent="FDIC">
+    <Name>Federal Department Insurance Corporation</Name>
+    <Kind organizationKindIdent="IC"/>
+    <Location>
+      <Locality>Washington</Locality>
+      <Region>D.C.</Region>
+      <Country>United States</Country>
+    </Location>
+    <History></History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>Washington</Locality>
+        <Region>D.C.</Region>
+        <PostalCode></PostalCode>
+        <Country>United States</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>http://www.silverdoctors.com/wp-content/uploads/2012/09/FDIC.png</ImageURL>
+      <VideoURL>http://www.youtube.com/watch?v=tRaFyfrTZw8</VideoURL>
+      <MapURL>http://www.skedco.com/Areas/MS/Content/media/shared/map_washington-dc.png</MapURL>
+      <SocialNetworkURL>http://www.facebook.com/pages/Federal-Deposit-Insurance-Corporation/112681415413365?fref=ts</SocialNetworkURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="GD1929"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="GWBush"></RelatedPerson>
+      <RelatedPerson personIdent="BHObama"></RelatedPerson>
+      <RelatedPerson personIdent="FDRoosevelt"></RelatedPerson>
+    </RelatedPersons>
+  </Organization>
+
+  <Organization organizationIdent="FR">
+    <Name>Federal Reserve</Name>
+    <Kind organizationKindIdent="CB"/>
+    <Location>
+      <Locality>Washington</Locality>
+      <Region>D.C.</Region>
+      <Country>United States</Country>
+    </Location>
+    <History>In 1791, the government granted the First Bank of the United States a charter to operate as the U.S. central bank until 1811. The First Bank of the United States came to an end under President Madison because Congress refused to renew its charter. The Second Bank of the United States was established in. 1816, and lost its authority to be the central bank of the U.S. twenty years later under President Jackson when its charter expired. Both banks were based upon the Bank of England. Ultimately, a third national bank, known as the Federal Reserve, was established in 1913 and still exists to this day.</History>
+    <ContactInfo>
+      <Telephone>888 851 1920</Telephone>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress>20th Street and Constitution Avenue N.W.</StreetAddress>
+        <Locality>Washington</Locality>
+        <Region>D.C.</Region>
+        <PostalCode>20551</PostalCode>
+        <Country>United States</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>http://i2.cdn.turner.com/money/2012/08/01/news/economy/federal-reserve-stimulus/federal-reserve-building.top.jpg</ImageURL>
+      <VideoURL>http://www.youtube.com/watch?v=iYZM58dulPE</VideoURL>
+      <MapURL>https://maps.google.com/maps?hl=enamptab=wl</MapURL>
+      <SocialNetworkURL>http://www.facebook.com/TheF3d?fref=ts</SocialNetworkURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="GD1929"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="FC2008"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="OC1973"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="GWBush"></RelatedPerson>
+      <RelatedPerson personIdent="BHObama"></RelatedPerson>
+      <RelatedPerson personIdent="FDRoosevelt"></RelatedPerson>
+      <RelatedPerson personIdent="BBernanke"></RelatedPerson>
+    </RelatedPersons>
+  </Organization>
+
+  <Organization organizationIdent="UN">
+    <Name>United Nations</Name>
+    <Kind organizationKindIdent="MA"/>
+    <Location>
+      <Locality>New York</Locality>
+      <Region>New York</Region>
+      <Country>United States</Country>
+    </Location>
+    <History>The League of Nations failed to prevent World War II (1939ñ1945). Because of the widespread recognition that humankind could not afford a third world war, the United Nations was established to replace the flawed League of Nations in 1945 in order to maintain international peace and promote cooperation in solving international economic, social, and humanitarian problems. The earliest concrete plan for a new world organization was begun under the aegis of the U.S. State Department in 1939. Franklin D. Roosevelt first coined the term 'United Nations' as a term to describe the Allied countries. The term was first officially used on 1 January 1942, when 26 governments signed the Atlantic Charter, pledging to continue the war effort. On 25 April 1945, the UN Conference on International Organization began in San Francisco, attended by 50 governments and a number of non-governmental organizations involved in drafting the United Nations Charter. The UN officially came into existence on 24 October 1945 upon ratification of the Charter by the five then-permanent members of the Security CouncilóFrance, the Republic of China, the Soviet Union, the United Kingdom and the United Statesóand by a majority of the other 46 signatories. The first meetings of the General Assembly, with 51 nations represented, and the Security Council, took place in Methodist Central Hall Westminster in London beginning 6 January 1946.</History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress>405 E 42nd St</StreetAddress>
+        <Locality>New york</Locality>
+        <Region>New York</Region>
+        <PostalCode>10017</PostalCode>
+        <Country>United States</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>http://www.mediafreedominternational.org/wp-content/uploads/2011/04/united-nations-headquarters.jpg</ImageURL>
+      <VideoURL>http://www.un.org/apps/news/story.asp?NewsID=44293#.UTjqbKV1gVA</VideoURL>
+      <MapURL>https://maps.google.com/maps?hl=enampie=UTF-8ampq=united+nations+headquartersampfb=1ampgl=usamphq=united+nations+headquartersampcid=0,0,4815170010615074300ampei=FXZcUdfYC8Sl2wWo-oC4Dgampved=0CKkBEPwSMAs</MapURL>
+      <SocialNetworkURL>http://www.facebook.com/unitednations?fref=ts</SocialNetworkURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="WTC2001"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="WOT2001"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="WWII1939"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="GEC2009"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="RFC2007"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="GWBush"></RelatedPerson>
+      <RelatedPerson personIdent="BHObama"></RelatedPerson>
+      <RelatedPerson personIdent="SHussein"></RelatedPerson>
+    </RelatedPersons>
+  </Organization>
+
+  <Organization organizationIdent="LB">
+    <Name>Lehman Brothers</Name>
+    <Kind organizationKindIdent="IB"/>
+    <Location>
+      <Locality>New York</Locality>
+      <Region>New York</Region>
+      <Country>United States</Country>
+    </Location>
+    <History>Lehman Brothers Holdings Inc. was a global financial services firm. Before declaring bankruptcy in 2008, Lehman was the fourth-largest investment bank in the US, doing business in investment banking, equity and fixed-income sales and trading (especially U.S. Treasury securities), research, investment management, private equity, and private banking.</History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>New York</Locality>
+        <Region>New York</Region>
+        <PostalCode></PostalCode>
+        <Country>United States</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>http://www.cepolina.com/photo/America/New-York/skyscrapers-glass-New-York/5/New-York-skyscraper-Lehman-Brothers.jpg</ImageURL>
+      <VideoURL>http://www.youtube.com/watch?v=oqOBnULi124</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="GWBush"></RelatedPerson>
+      <RelatedPerson personIdent="BHObama"></RelatedPerson>
+      <RelatedPerson personIdent="BBernanke"></RelatedPerson>
+    </RelatedPersons>
+  </Organization>
+
+  <Organization organizationIdent="NATO">
+    <Name>North Alantic Treaty Organization</Name>
+    <Kind organizationKindIdent="MA"/>
+    <Location>
+      <Locality>Brussels</Locality>
+      <Region>Belgium</Region>
+      <Country>Europe</Country>
+    </Location>
+    <History>The Treaty of Brussels, signed on 17 March 1948 by Belgium, the Netherlands, Luxembourg, France, and the United Kingdom, is considered the precursor to the NATO agreement. The treaty and the Soviet Berlin Blockade led to the creation of the Western European Union's Defence Organization in September 1948. However, participation of the United States was thought necessary both to counter the military power of the USSR and to prevent the revival of nationalist militarism, so talks for a new military alliance began almost immediately resulting in the North Atlantic Treaty, which was signed in Washington, D.C. on 4 April 1949. It included the five Treaty of Brussels states plus the United States, Canada, Portugal, Italy, Norway, Denmark and Iceland. Popular support for the Treaty was not unanimous, and some Icelanders participated in a pro-neutrality, anti-membership riot in March 1949. The members agreed that an armed attack against any one of them in Europe or North America would be considered an attack against them all. Consequently they agreed that, if an armed attack occurred, each of them, in exercise of the right of individual or collective self-defence, would assist the member being attacked, taking such action as it deemed necessary, including the use of armed force, to restore and maintain the security of the North Atlantic area. The treaty does not require members to respond with military action against an aggressor. Although obliged to respond, they maintain the freedom to choose the method by which they do so. This differs from Article IV of the Treaty of Brussels, which clearly states that the response will be military in nature. It is nonetheless assumed that NATO members will aid the attacked member militarily. The treaty was later clarified to include both the member's territory and their "vessels, forces or aircraft" above the Tropic of Cancer, including some Overseas departments of France.</History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>Brussels</Locality>
+        <Region>Belgium</Region>
+        <PostalCode></PostalCode>
+        <Country>Europe</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>http://4.bp.blogspot.com/-3D1pJVhRBzo/TxAXDgFmg1I/AAAAAAAAAQA/Xx7nmCof808/s1600/b_20100401134323Flag_of_NATO.gif</ImageURL>
+      <VideoURL>http://www.youtube.com/watch?v=_k2b61OHtWQ</VideoURL>
+      <MapURL>https://maps.google.com/maps?hl=enampgs_rn=8ampgs_ri=psy-abamptok=ZYV9PIszzL8NK7Ni6vHfFwampcp=7ampgs_id=sampxhr=tampq=nato+mapamprlz=1C2DVCR_enUS407US456ampbav=on.2,or.r_qf.ampbvm=bv.44697112,d.b2Iampbiw=1241ampbih=584ampum=1ampie=UTF-8ampsa=Namptab=wl</MapURL>
+      <SocialNetworkURL>http://www.facebook.com/NATO</SocialNetworkURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="WOT2001"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="GWBush"></RelatedPerson>
+      <RelatedPerson personIdent="BHObama"></RelatedPerson>
+      <RelatedPerson personIdent="SHussein"></RelatedPerson>
+      <RelatedPerson personIdent="OBLaden"></RelatedPerson>
+    </RelatedPersons>
+  </Organization>
+
+  <Organization organizationIdent="AQ">
+    <Name>Al-Qaeda</Name>
+    <Kind organizationKindIdent="TO"/>
+    <Location/>
+    <History>Al-Qaeda is a global militant Islamist organization founded by Osama bin Laden at some point between August 1988 and late 1989, with its origins being traceable to the Soviet War in Afghanistan. It operates as a network comprising both a multinational, stateless army and a radical Sunni Muslim movement calling for global Jihad and a strict interpretation of sharia law. It has been designated as a terrorist organization by the United Nations Security Council, NATO, the European Union, the United Kingdom, the United States, and various other countries. Al-Qaeda has carried out several attacks on non-Muslims, and other targets it considers kafir.</History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality/>
+        <Region/>
+        <PostalCode/>
+        <Country/>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>http://media.novinky.cz/692/196922-original1-1x6yb.jpg</ImageURL>
+      <VideoURL>http://www.youtube.com/watch?v=zUUUS_wRKLo</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="WTC2001"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="WOT2001"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="GWBush"></RelatedPerson>
+      <RelatedPerson personIdent="BHObama"></RelatedPerson>
+      <RelatedPerson personIdent="OBLaden"></RelatedPerson>
+    </RelatedPersons>
+  </Organization>
+
+  <Organization organizationIdent="ECB">
+    <Name>European Central Bank</Name>
+    <Kind organizationKindIdent="CB"/>
+    <Location>
+      <Locality>Frankfurt</Locality>
+      <Region>Hesse</Region>
+      <Country>Germany</Country>
+    </Location>
+    <History>The European Central Bank (ECB) is one of the seven institutions of the European Union (EU) listed in the Treaty on European Union(TEU). It is the central bank for the euro and administers the monetary policy of the 17 EU member states which constitute the Eurozone, one of the largest currency areas in the world. It is thus one of the world's most important central banks.</History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>Frankfurt</Locality>
+        <Region>Hesse</Region>
+        <PostalCode></PostalCode>
+        <Country>Germany</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>http://i.telegraph.co.uk/multimedia/archive/00866/money-graphics-2008_866833a.jpg</ImageURL>
+      <VideoURL>http://www.youtube.com/watch?v=Yyxn156vLBE</VideoURL>
+      <MapURL>https://maps.google.com/maps?hl=enampgs_rn=8ampgs_ri=psy-abamptok=yBTUqGI45h8OwXyrDG581Aampcp=15ampgs_id=1oampxhr=tampq=european+central+bankamprlz=1C2DVCR_enUS407US456ampbav=on.2,or.r_qf.ampbvm=bv.44697112,d.b2Iampbiw=1241ampbih=584ampum=1ampie=UTF-8ampsa=Namptab=wl</MapURL>
+      <SocialNetworkURL>http://www.facebook.com/pages/European-Central-Bank/108003912562000</SocialNetworkURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="FC2008"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="GEC2009"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="RFC2007"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="MDraghi"></RelatedPerson>
+    </RelatedPersons>
+  </Organization>
+
+  <Organization organizationIdent="CIA">
+    <Name>Central Intelligence Agency</Name>
+    <Kind organizationKindIdent="NS"/>
+    <Location>
+      <Locality>McLean</Locality>
+      <Region>Virginia</Region>
+      <Country>United States</Country>
+    </Location>
+    <History>The Central Intelligence Agency (CIA) is an independent civilian intelligence agency of the United States government. It is an executive agency and reports directly to the Director of National Intelligence, with responsibility for providing national security intelligence assessment to senior United States policymakers. Intelligence-gathering is performed by non-military commissioned civilian intelligence agents, many of whom are trained to avoid tactical situations. The CIA also oversees and sometimes engages in tactical and covert activities at the request of the President of the United States. Often, when such field operations are organized, the U.S. military or other warfare tacticians carry these tactical operations out on behalf of the agency while the CIA oversees them. Although intelligence-gathering is the agency's main agenda, tactical divisions were established in the agency to carry out emergency field operations that require immediate suppression or dismantling of a threat or weapon. The CIA's headquarters is located in Langley, McLean, Fairfax County, Virginia, a few miles west of Washington, D.C.</History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>McLean</Locality>
+        <Region>Virginia</Region>
+        <PostalCode></PostalCode>
+        <Country>United States</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>https://maps.google.com/maps?hl=enampq=CIAampie=UTF-8ampei=SJZcUb7mDsO-qgHb0oHoBgampved=0CAgQ_AUoAg</ImageURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="WTC2001"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="WOT2001"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="WWII1939"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="GWBush"></RelatedPerson>
+      <RelatedPerson personIdent="BHObama"></RelatedPerson>
+      <RelatedPerson personIdent="SHussein"></RelatedPerson>
+      <RelatedPerson personIdent="OBLaden"></RelatedPerson>
+    </RelatedPersons>
+  </Organization>
+ 
+
+  <Person personIdent="FDRoosevelt">
+    <Name>
+      <FirstName>Franklin</FirstName>
+      <MiddleName>Delano</MiddleName>
+      <LastName>Roosevelt</LastName>
+    </Name>
+    <Kind personKindIdent="PR"/>
+    <Location>
+      <Locality>Hyde Park</Locality>
+      <Region>New York</Region>
+      <Country>United States</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://media.npr.org/assets/img/2012/12/18/ap07021209188_wide-5c891c581ba4583ae9dd3c2f9e16e95121c37d12-s6-c10.jpg</ImageURL>
+      <VideoURL>http://www.history.com/topics/franklin-d-roosevelt/videos#fdr-a-voice-of-hope</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="GD1929"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="WWII1939"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="FDIC"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="FR"></RelatedOrganization>
+    </RelatedOrganizations>
+  </Person>
+
+  <Person personIdent="GWBush">
+    <Name>
+      <FirstName>George</FirstName>
+      <MiddleName>Walker</MiddleName>
+      <LastName>Bush</LastName>
+      <Suffix></Suffix>
+    </Name>
+    <Kind personKindIdent="PR" />
+    <Location>
+      <Locality>New Haven</Locality>
+      <Region>Connecticut</Region>
+      <Country>United States</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://www.whitehouse.gov/sites/default/files/first-family/masthead_image/43gb_header_sm.jpg?1250888303</ImageURL>
+      <VideoURL>http://www.georgewbushlibrary.smu.edu/en/Photos-and-Videos/Video-Clips/Video-Clips.aspx</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="E2001"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="FC2008"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="WTC2001"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="WTC2001"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="FDIC"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="FR"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="USDA"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="SEC"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="UN"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="LB"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="NATO"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="AQ"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="CIA"></RelatedOrganization>
+    </RelatedOrganizations>
+  </Person>
+
+  <Person personIdent="BHObama">
+    <Name>
+      <FirstName>Barack</FirstName>
+      <MiddleName>Hussein</MiddleName>
+      <LastName>Obama</LastName>
+      <Suffix>II</Suffix>
+    </Name>
+    <Kind personKindIdent="PR" />
+    <Location>
+      <Locality>Honolulu</Locality>
+      <Region>Hawaii</Region>
+      <Country>United States</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://www.whitehouse.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/09_p021213ck-0221.jpg</ImageURL>
+      <VideoURL>http://www.whitehouse.gov/photos-and-video/video/2013/03/04/president-obama-makes-personnel-announcement</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="FC2008"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="WTC2001"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="FDIC"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="FR"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="USDA"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="SEC"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="UN"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="LB"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="NATO"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="AQ"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="CIA"></RelatedOrganization>
+    </RelatedOrganizations>
+  </Person>
+
+  <Person personIdent="SHussein">
+    <Name>
+      <FirstName>Saddam</FirstName>
+      <MiddleName></MiddleName>
+      <LastName>Hussein</LastName>
+      <Suffix></Suffix>
+    </Name>
+    <Kind personKindIdent="PR"/>
+    <Location>
+      <Locality>Al-Awja</Locality>
+      <Region></Region>
+      <Country>Iraq</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/12/3/1354572648813/Saddam-Hussein--010.jpg</ImageURL>
+      <VideoURL>http://www.biography.com/people/saddam-hu47918</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="WTC2001"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="OC1973"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="UN"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="CIA"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="NATO"></RelatedOrganization>
+    </RelatedOrganizations>
+  </Person>
+
+  <Person personIdent="OBLaden">
+    <Name>
+      <FirstName>Osama</FirstName>
+      <MiddleName>Bin</MiddleName>
+      <LastName>Laden</LastName>
+      <Suffix></Suffix>
+    </Name>
+    <Kind personKindIdent="TL"/>
+    <Location>
+      <Locality>Riyadh</Locality>
+      <Region></Region>
+      <Country>Saudi Arabia</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/5/20/1305917006019/-Osama-bin-Laden-005.jpg</ImageURL>
+      <VideoURL>http://www.biography.com/people/osama-bin-laden-37172</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="WTC2001"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="NATO"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="AQ"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="CIA"></RelatedOrganization>
+    </RelatedOrganizations>
+  </Person>
+
+  <Person personIdent="KLay">
+    <Name>
+      <FirstName>Kenneth</FirstName>
+      <MiddleName></MiddleName>
+      <LastName>LAY</LastName>
+      <Suffix></Suffix>
+    </Name>
+    <Kind personKindIdent="BM" />
+    <Location>
+      <Locality>Tyrone</Locality>
+      <Region>Missouri</Region>
+      <Country>United States</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://www.biography.com/imported/images/Biography/Images/Profiles/L/Kenneth-Lay-234611-1-402.jpg</ImageURL>
+      <VideoURL>http://www.bloomberg.com/video/74575169-deceased-enron-ceo-triumphs-over-irs-in-tax-court.html</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="E2001"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="SEC"></RelatedOrganization>
+    </RelatedOrganizations>
+  </Person>
+
+  <Person personIdent="BBernanke">
+    <Name>
+      <FirstName>Ben</FirstName>
+      <MiddleName>Shalome</MiddleName>
+      <LastName>Bernanke</LastName>
+      <Suffix></Suffix>
+    </Name>
+    <Kind personKindIdent="FRC"/>
+    <Location>
+      <Locality>Augusta</Locality>
+      <Region>Georgia</Region>
+      <Country>United States</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://www.federalreserve.gov/aboutthefed/bios/board/bernanke.htm</ImageURL>
+      <VideoURL>http://www.c-spanvideo.org/benbernanke</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="FC2008"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="FDIC"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="LB"></RelatedOrganization>
+    </RelatedOrganizations>
+  </Person>
+
+  <Person personIdent="CMHardin">
+    <Name>
+      <FirstName>Clifford</FirstName>
+      <MiddleName>Morris</MiddleName>
+      <LastName>Hardin</LastName>
+      <Suffix></Suffix>
+    </Name>
+    <Kind personKindIdent="SA"/>
+    <Location>
+      <Locality>Knightstown</Locality>
+      <Region>Indiana</Region>
+      <Country>United States</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://graphics8.nytimes.com/images/2010/04/06/us/06hardin_CA1/06hardin_CA1-articleInline.jpg</ImageURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="CE1970"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="USDA"></RelatedOrganization>
+    </RelatedOrganizations>
+  </Person>
+
+  <Person personIdent="MDraghi">
+    <Name>
+      <FirstName>Mario</FirstName>
+      <MiddleName></MiddleName>
+      <LastName>Draghi</LastName>
+      <Suffix></Suffix>
+    </Name>
+    <Kind personKindIdent="PR"/>
+    <Location>
+      <Locality>Rome</Locality>
+      <Region></Region>
+      <Country>Italy</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://static.guim.co.uk/sys-images/Guardian/Pix/pixies/2012/9/6/1346954603380/Mario-Draghi-008.jpg</ImageURL>
+      <VideoURL>http://video.ft.com/v/2033743054001/Mario-Draghi-Not-time-to-give-up-austerity</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="FC2008"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="GEC2009"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="ECB"></RelatedOrganization>
+    </RelatedOrganizations>
+  </Person>
+
+  <Person personIdent="AGreenspan">
+    <Name>
+      <FirstName>Alan</FirstName>
+      <MiddleName></MiddleName>
+      <LastName>Greenspan</LastName>
+      <Suffix></Suffix>
+    </Name>
+    <Kind personKindIdent="FRC"/>
+    <Location>
+      <Locality>New York</Locality>
+      <Region>New York</Region>
+      <Country>United States</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://www.biography.com/imported/images/Biography/Images/Profiles/G/Alan-Greenspan-9319769-1-402.jpg</ImageURL>
+      <VideoURL>http://www.biography.com/people/alan-greenspan-9319769</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="RFC2007"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="FR"></RelatedOrganization>
+    </RelatedOrganizations>
+  </Person>
+
+  <CrisisKind crisisKindIdent = "EC">
+    <Name>Economic Crisis</Name>
+    <Description>Crisis that significantly alters and threatens the economic state of the region.</Description>
+  </CrisisKind>
+
+  <CrisisKind crisisKindIdent = "FC">
+    <Name>Financial Crisis</Name>
+    <Description>Crisis that results in a significant loss of money.</Description>
+  </CrisisKind>
+
+  <CrisisKind crisisKindIdent = "MC">
+    <Name>Military Crisis</Name>
+    <Description>Crisis that requires military involvement, often war.</Description>
+  </CrisisKind>
+
+  <CrisisKind crisisKindIdent = "E">
+    <Name>Epidemic</Name>
+    <Description>Crisis that results in widespread disease and sickness.</Description>
+  </CrisisKind>
+
+  <OrganizationKind organizationKindIdent="AD">
+    <Name>Agricultural Department</Name>
+    <Description>Responsible for developing and executing U.S. federal government policy on farming, agriculture, forestry, and food.</Description>
+  </OrganizationKind>
+
+  <OrganizationKind organizationKindIdent="NS">
+    <Name>National Security</Name>
+    <Description>Maintain the survival of the state through the use of economic power, diplomacy, power projection and political power.</Description>
+  </OrganizationKind>
+
+  <OrganizationKind organizationKindIdent="IC">
+    <Name>Insurance Corporation</Name>
+    <Description>It provides deposit insurance guaranteeing the safety of a depositor's accounts.</Description>
+  </OrganizationKind>
+
+  <OrganizationKind organizationKindIdent="CB">
+    <Name>Central Bank</Name>
+    <Description>Is a public institution that manages a state's currency, money supply, and interest rates. Central banks also usually oversee the commercial banking system of their respective countries.</Description>
+  </OrganizationKind>
+
+  <OrganizationKind organizationKindIdent="MA">
+    <Name>Military Alliance</Name>
+    <Description>A security arrangement, regional or global, in which each state in the system accepts that the security of one is the concern of all, and agrees to join in a collective response to threats to, and breaches of, the peace.</Description>
+  </OrganizationKind>
+
+  <OrganizationKind organizationKindIdent="IB">
+    <Name>Investment Bank</Name>
+    <Description>Is a financial institution that assists individuals, corporations, and governments in raising capital by underwriting and/or acting as the client's agent in the issuance of securities.</Description>
+  </OrganizationKind>
+
+  <OrganizationKind organizationKindIdent="TO">
+    <Name>Terrorist Organization</Name>
+    <Description>A political movement that uses terror as a weapon to achieve its goals.</Description>
+  </OrganizationKind>
+
+<PersonKind personKindIdent="PR">
+    <Name>President</Name>
+    <Description>Is a leader of an organization, company, community, club, trade union, university, country, a division or part of any of these, or, more generally, anything else.</Description>
+</PersonKind>
+
+<PersonKind personKindIdent="TL">
+    <Name>Terrorist Leader</Name>
+    <Description>A leader of a group who uses or advocates terrorism.</Description>
+</PersonKind>
+
+<PersonKind personKindIdent="FRC">
+    <Name>Federal Reserve Chairman</Name>
+    <Description>Is the head of the central banking system of the United States.</Description>
+</PersonKind>
+
+<PersonKind personKindIdent="BM">
+    <Name>Businessman</Name>
+    <Description>Is someone involved in a particular undertaking of activities, commercial or industrial, for the purpose of generating revenue from a combination of human, financial, and physical capital.</Description>
+</PersonKind>
+
+<PersonKind personKindIdent="SA">
+    <Name>Secretary of Agriculture</Name>
+    <Description>Is the head of the United States Department of Agriculture.</Description>
+</PersonKind>
+
+</WorldCrises>
+
+-----------------
+Output for Test 2
+-----------------
+<?xml version = "1.0" ?>
+
+<WorldCrises>
+  <Crisis crisisIdent = "c2">
+    <Name>name2</Name>
+    <Kind crisisKindIdent = "ck2" />
+    <Location>
+      <Locality>locality2</Locality>
+      <Region>region2</Region>
+      <Country>country2</Country>
+    </Location>
+    <StartDateTime>
+      <Date>2222-02-02</Date>
+    </StartDateTime>
+    <HumanImpact>
+      <Type>type2</Type>
+      <Number>2222222222</Number>
+    </HumanImpact>
+    <EconomicImpact>economicimpact2</EconomicImpact>
+    <ExternalResources>
+      <ImageURL>http://22.com</ImageURL>
+      <VideoURL>http://www.222.com</VideoURL>
+      <MapURL>https://www.222222.org</MapURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent = "p2" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent = "o2" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Organization organizationIdent="o2">
+    <Name>name2</Name>
+    <Kind organizationKindIdent="ok2"/>
+    <Location>
+      <Locality>locality2</Locality>
+      <Region>region2</Region>
+      <Country>country2</Country>
+    </Location>
+    <History>history2</History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>locality2</Locality>
+        <Region>region2</Region>
+        <PostalCode>22222</PostalCode>
+        <Country>country2</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>https://22.2222.edu</ImageURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="c2"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="p2"></RelatedPerson>
+    </RelatedPersons>
+  </Organization>
+ 
+
+  <Person personIdent="p2">
+    <Name>
+      <FirstName>firstname2</FirstName>
+      <MiddleName>middlename2</MiddleName>
+      <LastName>lastname2</LastName>
+    </Name>
+    <Kind personKindIdent="pk2"/>
+    <Location>
+      <Locality>locality2</Locality>
+      <Region>region2</Region>
+      <Country>unitedstates2</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://22.222.org/22/222/2/22/2/2222/22.jpg</ImageURL>
+      <VideoURL>http://2.com</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="c2"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="o2"></RelatedOrganization>
+    </RelatedOrganizations>
+  </Person>
+
+  <CrisisKind crisisKindIdent = "ck2">
+    <Name>crisis name 2</Name>
+    <Description>crisiskindIdent for acceptance test 2</Description>
+  </CrisisKind>
+
+  <OrganizationKind organizationKindIdent="ok2">
+    <Name>organization name 2</Name>
+    <Description>organizationkindIdent for acceptance test 2</Description>
+  </OrganizationKind>
+
+<PersonKind personKindIdent="pk2">
+    <Name>person name 2</Name>
+    <Description>personkindIdent for acceptance test 2</Description>
+</PersonKind>
+
+</WorldCrises>
+
+
+-----------------
+Output for Test 3
+-----------------
+<?xml version = "1.0" ?>
+
+<WorldCrises>
+  <Crisis crisisIdent = "c3">
+    <Name>name3</Name>
+    <Kind crisisKindIdent = "ck3" />
+    <Location>
+      <Locality>locality3</Locality>
+      <Region>region3</Region>
+      <Country>country3</Country>
+    </Location>
+    <StartDateTime>
+      <Date>3333-03-03</Date>
+    </StartDateTime>
+    <HumanImpact>
+      <Type>type3</Type>
+      <Number>3333333333</Number>
+    </HumanImpact>
+    <EconomicImpact>economicimpact3</EconomicImpact>
+    <ExternalResources>
+      <ImageURL>http://33.com</ImageURL>
+      <VideoURL>http://www.333.com</VideoURL>
+      <MapURL>https://www.333333.org</MapURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent = "p3" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent = "o3" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Organization organizationIdent="o3">
+    <Name>name3</Name>
+    <Kind organizationKindIdent="ok3"/>
+    <Location>
+      <Locality>locality3</Locality>
+      <Region>region3</Region>
+      <Country>country3</Country>
+    </Location>
+    <History>history3</History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>locality3</Locality>
+        <Region>region3</Region>
+        <PostalCode>33333</PostalCode>
+        <Country>country3</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>https://33.3333.edu</ImageURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="c3"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="p3"></RelatedPerson>
+    </RelatedPersons>
+  </Organization>
+ 
+
+  <Person personIdent="p3">
+    <Name>
+      <FirstName>firstname3</FirstName>
+      <MiddleName>middlename3</MiddleName>
+      <LastName>lastname3</LastName>
+    </Name>
+    <Kind personKindIdent="pk3"/>
+    <Location>
+      <Locality>locality3</Locality>
+      <Region>region3</Region>
+      <Country>unitedstates3</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://33.333.org/33/333/3/33/3/3333/33.jpg</ImageURL>
+      <VideoURL>http://3.com</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="c3"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="o3"></RelatedOrganization>
+    </RelatedOrganizations>
+  </Person>
+
+  <CrisisKind crisisKindIdent = "ck3">
+    <Name>crisis name 3</Name>
+    <Description>crisiskindIdent for acceptance test 3</Description>
+  </CrisisKind>
+
+  <OrganizationKind organizationKindIdent="ok3">
+    <Name>organization name 3</Name>
+    <Description>organizationkindIdent for acceptance test 3</Description>
+  </OrganizationKind>
+
+<PersonKind personKindIdent="pk3">
+    <Name>person name 3</Name>
+    <Description>personkindIdent for acceptance test 3</Description>
+</PersonKind>
+
+</WorldCrises>
+
+
+-----------------
+Output for Test 4
+-----------------
+<?xml version = "1.0" ?>
+
+<WorldCrises>
+  <Crisis crisisIdent = "c4">
+    <Name>name4</Name>
+    <Kind crisisKindIdent = "ck4" />
+    <Location>
+      <Locality>locality4</Locality>
+      <Region>region4</Region>
+      <Country>country4</Country>
+    </Location>
+    <StartDateTime>
+      <Date>4444-04-04</Date>
+    </StartDateTime>
+    <HumanImpact>
+      <Type>type4</Type>
+      <Number>4444444444</Number>
+    </HumanImpact>
+    <EconomicImpact>economicimpact4</EconomicImpact>
+    <ExternalResources>
+      <ImageURL>http://44.com</ImageURL>
+      <VideoURL>http://www.444.com</VideoURL>
+      <MapURL>https://www.444444.org</MapURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent = "p4" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent = "o4" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Organization organizationIdent="o4">
+    <Name>name4</Name>
+    <Kind organizationKindIdent="ok4"/>
+    <Location>
+      <Locality>locality4</Locality>
+      <Region>region4</Region>
+      <Country>country4</Country>
+    </Location>
+    <History>history4</History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>locality4</Locality>
+        <Region>region4</Region>
+        <PostalCode>44444</PostalCode>
+        <Country>country4</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>https://44.4444.edu</ImageURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="c4"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="p4"></RelatedPerson>
+    </RelatedPersons>
+  </Organization>
+ 
+
+  <Person personIdent="p4">
+    <Name>
+      <FirstName>firstname4</FirstName>
+      <MiddleName>middlename4</MiddleName>
+      <LastName>lastname4</LastName>
+    </Name>
+    <Kind personKindIdent="pk4"/>
+    <Location>
+      <Locality>locality4</Locality>
+      <Region>region4</Region>
+      <Country>unitedstates4</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://44.444.org/44/444/4/44/4/4444/44.jpg</ImageURL>
+      <VideoURL>http://4.com</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="c4"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="o4"></RelatedOrganization>
+    </RelatedOrganizations>
+  </Person>
+
+  <CrisisKind crisisKindIdent = "ck4">
+    <Name>crisis name 4</Name>
+    <Description>crisiskindIdent for acceptance test 4</Description>
+  </CrisisKind>
+
+  <OrganizationKind organizationKindIdent="ok4">
+    <Name>organization name 4</Name>
+    <Description>organizationkindIdent for acceptance test 4</Description>
+  </OrganizationKind>
+
+<PersonKind personKindIdent="pk4">
+    <Name>person name 4</Name>
+    <Description>personkindIdent for acceptance test 4</Description>
+</PersonKind>
+
+</WorldCrises>4
+
+
+-----------------
+Output for Test 5
+-----------------
+<?xml version = "1.0" ?>
+
+<WorldCrises>
+  <Crisis crisisIdent = "c5">
+    <Name>name5</Name>
+    <Kind crisisKindIdent = "ck5" />
+    <Location>
+      <Locality>locality5</Locality>
+      <Region>region5</Region>
+      <Country>country5</Country>
+    </Location>
+    <StartDateTime>
+      <Date>5555-05-05</Date>
+    </StartDateTime>
+    <HumanImpact>
+      <Type>type5</Type>
+      <Number>5555555555</Number>
+    </HumanImpact>
+    <EconomicImpact>economicimpact5</EconomicImpact>
+    <ExternalResources>
+      <ImageURL>http://55.com</ImageURL>
+      <VideoURL>http://www.555.com</VideoURL>
+      <MapURL>https://www.555555.org</MapURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent = "p5" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent = "o5" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Organization organizationIdent="o5">
+    <Name>name5</Name>
+    <Kind organizationKindIdent="ok5"/>
+    <Location>
+      <Locality>locality5</Locality>
+      <Region>region5</Region>
+      <Country>country5</Country>
+    </Location>
+    <History>history5</History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>locality5</Locality>
+        <Region>region5</Region>
+        <PostalCode>55555</PostalCode>
+        <Country>country5</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>https://55.5555.edu</ImageURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="c5"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="p5"></RelatedPerson>
+    </RelatedPersons>
+  </Organization>
+ 
+
+  <Person personIdent="p5">
+    <Name>
+      <FirstName>firstname5</FirstName>
+      <MiddleName>middlename5</MiddleName>
+      <LastName>lastname5</LastName>
+    </Name>
+    <Kind personKindIdent="pk5"/>
+    <Location>
+      <Locality>locality5</Locality>
+      <Region>region5</Region>
+      <Country>unitedstates5</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://55.555.org/55/555/5/55/5/5555/55.jpg</ImageURL>
+      <VideoURL>http://5.com</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="c5"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="o5"></RelatedOrganization>
+    </RelatedOrganizations>
+  </Person>
+
+  <CrisisKind crisisKindIdent = "ck5">
+    <Name>crisis name 5</Name>
+    <Description>crisiskindIdent for acceptance test 5</Description>
+  </CrisisKind>
+
+  <OrganizationKind organizationKindIdent="ok5">
+    <Name>organization name 5</Name>
+    <Description>organizationkindIdent for acceptance test 5</Description>
+  </OrganizationKind>
+
+<PersonKind personKindIdent="pk5">
+    <Name>person name 5</Name>
+    <Description>personkindIdent for acceptance test 5</Description>
+</PersonKind>
+
+</WorldCrises>
+
+
+-----------------
+Output for Test 6
+-----------------
+<?xml version = "1.0" ?>
+
+<WorldCrises>
+  <Crisis crisisIdent = "c6">
+    <Name>name6</Name>
+    <Kind crisisKindIdent = "ck6" />
+    <Location>
+      <Locality>locality6</Locality>
+      <Region>region6</Region>
+      <Country>country6</Country>
+    </Location>
+    <StartDateTime>
+      <Date>6666-06-06</Date>
+    </StartDateTime>
+    <HumanImpact>
+      <Type>type6</Type>
+      <Number>6666666666</Number>
+    </HumanImpact>
+    <EconomicImpact>economicimpact6</EconomicImpact>
+    <ExternalResources>
+      <ImageURL>http://66.com</ImageURL>
+      <VideoURL>http://www.666.com</VideoURL>
+      <MapURL>https://www.666666.org</MapURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent = "p6" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent = "o6" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Organization organizationIdent="o6">
+    <Name>name6</Name>
+    <Kind organizationKindIdent="ok6"/>
+    <Location>
+      <Locality>locality6</Locality>
+      <Region>region6</Region>
+      <Country>country6</Country>
+    </Location>
+    <History>history6</History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>locality6</Locality>
+        <Region>region6</Region>
+        <PostalCode>66666</PostalCode>
+        <Country>country6</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>https://66.6666.edu</ImageURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="c6"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="p6"></RelatedPerson>
+    </RelatedPersons>
+  </Organization>
+ 
+
+  <Person personIdent="p6">
+    <Name>
+      <FirstName>firstname6</FirstName>
+      <MiddleName>middlename6</MiddleName>
+      <LastName>lastname6</LastName>
+    </Name>
+    <Kind personKindIdent="pk6"/>
+    <Location>
+      <Locality>locality6</Locality>
+      <Region>region6</Region>
+      <Country>unitedstates6</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://66.666.org/66/666/6/66/6/6666/66.jpg</ImageURL>
+      <VideoURL>http://6.com</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="c6"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="o6"></RelatedOrganization>
+    </RelatedOrganizations>
+  </Person>
+
+  <CrisisKind crisisKindIdent = "ck6">
+    <Name>crisis name 6</Name>
+    <Description>crisiskindIdent for acceptance test 6</Description>
+  </CrisisKind>
+
+  <OrganizationKind organizationKindIdent="ok6">
+    <Name>organization name 6</Name>
+    <Description>organizationkindIdent for acceptance test 6</Description>
+  </OrganizationKind>
+
+<PersonKind personKindIdent="pk6">
+    <Name>person name 6</Name>
+    <Description>personkindIdent for acceptance test 6</Description>
+</PersonKind>
+
+</WorldCrises>
+
+
+-----------------
+Output for Test 7
+-----------------
+<?xml version = "1.0" ?>
+
+<WorldCrises>
+  <Crisis crisisIdent = "c7">
+    <Name>name7</Name>
+    <Kind crisisKindIdent = "ck7" />
+    <Location>
+      <Locality>locality7</Locality>
+      <Region>region7</Region>
+      <Country>country7</Country>
+    </Location>
+    <StartDateTime>
+      <Date>7777-07-07</Date>
+    </StartDateTime>
+    <HumanImpact>
+      <Type>type7</Type>
+      <Number>7777777777</Number>
+    </HumanImpact>
+    <EconomicImpact>economicimpact7</EconomicImpact>
+    <ExternalResources>
+      <ImageURL>http://77.com</ImageURL>
+      <VideoURL>http://www.777.com</VideoURL>
+      <MapURL>https://www.777777.org</MapURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent = "p7" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent = "o7" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Organization organizationIdent="o7">
+    <Name>name7</Name>
+    <Kind organizationKindIdent="ok7"/>
+    <Location>
+      <Locality>locality7</Locality>
+      <Region>region7</Region>
+      <Country>country7</Country>
+    </Location>
+    <History>history7</History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>locality7</Locality>
+        <Region>region7</Region>
+        <PostalCode>77777</PostalCode>
+        <Country>country7</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>https://77.7777.edu</ImageURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="c7"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="p7"></RelatedPerson>
+    </RelatedPersons>
+  </Organization>
+ 
+
+  <Person personIdent="p7">
+    <Name>
+      <FirstName>firstname7</FirstName>
+      <MiddleName>middlename7</MiddleName>
+      <LastName>lastname7</LastName>
+    </Name>
+    <Kind personKindIdent="pk7"/>
+    <Location>
+      <Locality>locality7</Locality>
+      <Region>region7</Region>
+      <Country>unitedstates7</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://77.777.org/77/777/7/77/7/7777/77.jpg</ImageURL>
+      <VideoURL>http://7.com</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="c7"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="o7"></RelatedOrganization>
+    </RelatedOrganizations>
+  </Person>
+
+  <CrisisKind crisisKindIdent = "ck7">
+    <Name>crisis name 7</Name>
+    <Description>crisiskindIdent for acceptance test 7</Description>
+  </CrisisKind>
+
+  <OrganizationKind organizationKindIdent="ok7">
+    <Name>organization name 7</Name>
+    <Description>organizationkindIdent for acceptance test 7</Description>
+  </OrganizationKind>
+
+<PersonKind personKindIdent="pk7">
+    <Name>person name 7</Name>
+    <Description>personkindIdent for acceptance test 7</Description>
+</PersonKind>
+
+</WorldCrises>
+
+
+-----------------
+Output for Test 8
+-----------------
+<?xml version = "1.0" ?>
+
+<WorldCrises>
+  <Crisis crisisIdent = "c8">
+    <Name>name8</Name>
+    <Kind crisisKindIdent = "ck8" />
+    <Location>
+      <Locality>locality8</Locality>
+      <Region>region8</Region>
+      <Country>country8</Country>
+    </Location>
+    <StartDateTime>
+      <Date>8888-08-08</Date>
+    </StartDateTime>
+    <HumanImpact>
+      <Type>type8</Type>
+      <Number>8888888888</Number>
+    </HumanImpact>
+    <EconomicImpact>economicimpact8</EconomicImpact>
+    <ExternalResources>
+      <ImageURL>http://88.com</ImageURL>
+      <VideoURL>http://www.888.com</VideoURL>
+      <MapURL>https://www.888888.org</MapURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent = "p8" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent = "o8" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Organization organizationIdent="o8">
+    <Name>name8</Name>
+    <Kind organizationKindIdent="ok8"/>
+    <Location>
+      <Locality>locality8</Locality>
+      <Region>region8</Region>
+      <Country>country8</Country>
+    </Location>
+    <History>history8</History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>locality8</Locality>
+        <Region>region8</Region>
+        <PostalCode>88888</PostalCode>
+        <Country>country8</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>https://88.8888.edu</ImageURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="c8"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="p8"></RelatedPerson>
+    </RelatedPersons>
+  </Organization>
+ 
+
+  <Person personIdent="p8">
+    <Name>
+      <FirstName>firstname8</FirstName>
+      <MiddleName>middlename8</MiddleName>
+      <LastName>lastname8</LastName>
+    </Name>
+    <Kind personKindIdent="pk8"/>
+    <Location>
+      <Locality>locality8</Locality>
+      <Region>region8</Region>
+      <Country>unitedstates8</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://88.888.org/88/888/8/88/8/8888/88.jpg</ImageURL>
+      <VideoURL>http://8.com</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="c8"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="o8"></RelatedOrganization>
+    </RelatedOrganizations>
+  </Person>
+
+  <CrisisKind crisisKindIdent = "ck8">
+    <Name>crisis name 8</Name>
+    <Description>crisiskindIdent for acceptance test 8</Description>
+  </CrisisKind>
+
+  <OrganizationKind organizationKindIdent="ok8">
+    <Name>organization name 8</Name>
+    <Description>organizationkindIdent for acceptance test 8</Description>
+  </OrganizationKind>
+
+<PersonKind personKindIdent="pk8">
+    <Name>person name 8</Name>
+    <Description>personkindIdent for acceptance test 8</Description>
+</PersonKind>
+
+</WorldCrises>
+
+
+-----------------
+Output for Test 9
+-----------------
+<?xml version = "1.0" ?>
+
+<WorldCrises>
+  <Crisis crisisIdent = "c9">
+    <Name>name9</Name>
+    <Kind crisisKindIdent = "ck9" />
+    <Location>
+      <Locality>locality9</Locality>
+      <Region>region9</Region>
+      <Country>country9</Country>
+    </Location>
+    <StartDateTime>
+      <Date>9999-09-09</Date>
+    </StartDateTime>
+    <HumanImpact>
+      <Type>type9</Type>
+      <Number>9999999999</Number>
+    </HumanImpact>
+    <EconomicImpact>economicimpact9</EconomicImpact>
+    <ExternalResources>
+      <ImageURL>http://99.com</ImageURL>
+      <VideoURL>http://www.999.com</VideoURL>
+      <MapURL>https://www.999999.org</MapURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent = "p9" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent = "o9" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Organization organizationIdent="o9">
+    <Name>name9</Name>
+    <Kind organizationKindIdent="ok9"/>
+    <Location>
+      <Locality>locality9</Locality>
+      <Region>region9</Region>
+      <Country>country9</Country>
+    </Location>
+    <History>history9</History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>locality9</Locality>
+        <Region>region9</Region>
+        <PostalCode>99999</PostalCode>
+        <Country>country9</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>https://99.9999.edu</ImageURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="c9"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="p9"></RelatedPerson>
+    </RelatedPersons>
+  </Organization>
+ 
+
+  <Person personIdent="p9">
+    <Name>
+      <FirstName>firstname9</FirstName>
+      <MiddleName>middlename9</MiddleName>
+      <LastName>lastname9</LastName>
+    </Name>
+    <Kind personKindIdent="pk9"/>
+    <Location>
+      <Locality>locality9</Locality>
+      <Region>region9</Region>
+      <Country>unitedstates9</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://99.999.org/99/999/9/99/9/9999/99.jpg</ImageURL>
+      <VideoURL>http://9.com</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="c9"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="o9"></RelatedOrganization>
+    </RelatedOrganizations>
+  </Person>
+
+  <CrisisKind crisisKindIdent = "ck9">
+    <Name>crisis name 9</Name>
+    <Description>crisiskindIdent for acceptance test 9</Description>
+  </CrisisKind>
+
+  <OrganizationKind organizationKindIdent="ok9">
+    <Name>organization name 9</Name>
+    <Description>organizationkindIdent for acceptance test 9</Description>
+  </OrganizationKind>
+
+<PersonKind personKindIdent="pk9">
+    <Name>person name 9</Name>
+    <Description>personkindIdent for acceptance test 9</Description>
+</PersonKind>
+
+</WorldCrises>
+
+
+------------------
+Output for Test 10
+------------------
+<?xml version = "1.0" ?>
+
+<WorldCrises>
+  <Crisis crisisIdent = "c1">
+    <Name>name1</Name>
+    <Kind crisisKindIdent = "ck1" />
+    <Location>
+      <Locality>locality1</Locality>
+      <Region>region1</Region>
+      <Country>country1</Country>
+    </Location>
+    <StartDateTime>
+      <Date>1111-01-01</Date>
+    </StartDateTime>
+    <HumanImpact>
+      <Type>type1</Type>
+      <Number>1111111111</Number>
+    </HumanImpact>
+    <EconomicImpact>economicimpact1</EconomicImpact>
+    <ExternalResources>
+      <ImageURL>http://11.com</ImageURL>
+      <VideoURL>http://www.111.com</VideoURL>
+      <MapURL>https://www.111111.org</MapURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent = "p1" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent = "o1" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Organization organizationIdent="o1">
+    <Name>name1</Name>
+    <Kind organizationKindIdent="ok1"/>
+    <Location>
+      <Locality>locality1</Locality>
+      <Region>region1</Region>
+      <Country>country1</Country>
+    </Location>
+    <History>history1</History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>locality1</Locality>
+        <Region>region1</Region>
+        <PostalCode>11111</PostalCode>
+        <Country>country1</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>https://11.1111.edu</ImageURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="c1"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="p1"></RelatedPerson>
+    </RelatedPersons>
+  </Organization>
+ 
+
+  <Person personIdent="p1">
+    <Name>
+      <FirstName>firstname1</FirstName>
+      <MiddleName>middlename1</MiddleName>
+      <LastName>lastname1</LastName>
+    </Name>
+    <Kind personKindIdent="pk1"/>
+    <Location>
+      <Locality>locality1</Locality>
+      <Region>region1</Region>
+      <Country>unitedstates1</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://11.111.org/11/111/1/11/1/1111/11.jpg</ImageURL>
+      <VideoURL>http://1.com</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="c1"></RelatedCrisis>
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="o1"></RelatedOrganization>
+    </RelatedOrganizations>
+  </Person>
+
+  <CrisisKind crisisKindIdent = "ck1">
+    <Name>crisis name 1</Name>
+    <Description>crisiskindIdent for acceptance test 1</Description>
+  </CrisisKind>
+
+  <OrganizationKind organizationKindIdent="ok1">
+    <Name>organization name 1</Name>
+    <Description>organizationkindIdent for acceptance test 1</Description>
+  </OrganizationKind>
+
+<PersonKind personKindIdent="pk1">
+    <Name>person name 1</Name>
+    <Description>personkindIdent for acceptance test 1</Description>
+</PersonKind>
+
+</WorldCrises>
+
+
+
+
