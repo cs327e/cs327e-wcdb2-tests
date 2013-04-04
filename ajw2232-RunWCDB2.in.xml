@@ -1,29 +1,29 @@
-------
-Test 1
-------
+-----
+Test1
+-----
 <?xml version = "1.0" ?>
 
 <WorldCrises>
   <Crisis crisisIdent = "E2001">
-    <Name> Syrian Civil War </Name>
+    <Name>Enron Collapse</Name>
     <Kind crisisKindIdent = "FC" />
     <Location>
-      <Locality> Houston </Locality>
-      <Region> TX </Region>
-      <Country> United States </Country>
+      <Locality>Houston</Locality>
+      <Region>TX</Region>
+      <Country>United States</Country>
     </Location>
     <StartDateTime>
-      <Date> 2001-08-14 </Date>
+      <Date>2001-08-14</Date>
     </StartDateTime>
     <HumanImpact>
-      <Type> Financial Loss </Type>
-      <Number> 60000000000 </Number>
+      <Type>Financial Loss</Type>
+      <Number>60000000000</Number>
     </HumanImpact>
-    <EconomicImpact> Greatest stock value loss in peaceful times and the largest bankruptcy in American history. </EconomicImpact>
+    <EconomicImpact>Greatest stock value loss in peaceful times and the largest bankruptcy in American history.</EconomicImpact>
     <ExternalResources>
-      <ImageURL> http://rememberinghistory.files.wordpress.com/2012/11/enron_logo.jpg%3Fw%3D610 </ImageURL>
-      <VideoURL> http://www.youtube.com/watch?v=QS5aosxUfvY</VideoURL>
-      <MapURL> https://maps.google.com/maps?hl=enampq=1400+smith+street+houston+77002ampbav=on.2,or.r_gc.r_pw.r_cp.r_qf.ampbvm=bv.43287494,d.b2Iampbiw=640ampbih=679ampum=1ampie=UTF-8ampsa=Namptab=wl </MapURL>
+      <ImageURL>http://rememberinghistory.files.wordpress.com/2012/11/enron_logo.jpg%3Fw%3D610</ImageURL>
+      <VideoURL>http://www.youtube.com/watch?v=QS5aosxUfvY</VideoURL>
+      <MapURL>https://maps.google.com/maps?hl=enampq=1400+smith+street+houston+77002ampbav=on.2,or.r_gc.r_pw.r_cp.r_qf.ampbvm=bv.43287494,d.b2Iampbiw=640ampbih=679ampum=1ampie=UTF-8ampsa=Namptab=wl</MapURL>
     </ExternalResources>
     <RelatedPersons>
       <RelatedPerson personIdent = "KLay" />
@@ -35,26 +35,27 @@ Test 1
   </Crisis>
 
   <Crisis crisisIdent = "GD1929">
-    <Name> Great Depression </Name>
+    <Name>Great Depression</Name>
     <Kind crisisKindIdent = "FC" />
     <Location>
-      <Locality> New York City </Locality>
-      <Region> New York </Region>
-      <Country> United States </Country>
+      <Locality>New York City</Locality>
+      <Region>New York</Region>
+      <Country>United States</Country>
     </Location>
     <StartDateTime>
-      <Date> 1929-10-29 </Date>
+      <Date>1929-10-29</Date>
     </StartDateTime>
     <EndDateTime>
-      <Date> 1941-12-08 </Date>
+      <Date>1941-12-08</Date>
     </EndDateTime>
     <HumanImpact>
-      <Type> Financial loss and emotional struggle </Type>
+      <Type>Financial loss and emotional struggle</Type>
+      <Number>0</Number>
     </HumanImpact>
-    <EconomicImpact> US economy declined after the crash, and many other countries began to follow suit. </EconomicImpact>
+    <EconomicImpact>US economy declined after the crash, and many other countries began to follow suit.</EconomicImpact>
     <ExternalResources>
-      <ImageURL> http://upload.wikimedia.org/wikipedia/commons/5/54/Lange-MigrantMother02.jpg </ImageURL>
-      <VideoURL> http://www.youtube.com/watch?v=TpfY8kh5lUw </VideoURL>
+      <ImageURL>http://upload.wikimedia.org/wikipedia/commons/5/54/Lange-MigrantMother02.jpg</ImageURL>
+      <VideoURL>http://www.youtube.com/watch?v=TpfY8kh5lUw</VideoURL>
     </ExternalResources>
     <RelatedPersons>
       <RelatedPerson personIdent = "FDRoosevelt" />
@@ -62,26 +63,26 @@ Test 1
     </RelatedPersons>
     <RelatedOrganizations>
       <RelatedOrganization organizationIdent = "FDIC" />
-      <RelatedOrganization organizationIDent = "FR" />
+      <RelatedOrganization organizationIdent = "FR" />
     </RelatedOrganizations>
   </Crisis>
 
   <Crisis crisisIdent = "FC2008">
-    <Name> 2008 Financial Crisis </Name>
+    <Name>2008 Financial Crisis</Name>
     <Kind crisisKindIdent = "FC" />
     <Location>
-      <Country> United States </Country>
+      <Country>United States</Country>
     </Location>
     <StartDateTime>
-      <Date> 2007-08-07 </Date>
+      <Date>2007-08-07</Date>
     </StartDateTime>
     <HumanImpact>
-      <Type> Financial Loss </Type>
-      <Number> 60000000000 </Number>
+      <Type>Financial Loss</Type>
+      <Number>60000000000</Number>
     </HumanImpact>
-    <EconomicImpact> Declines in consumption and investment. Housing prices fell 20%. </EconomicImpact>
+    <EconomicImpact>Declines in consumption and investment. Housing prices fell 20%.</EconomicImpact>
     <ExternalResources>
-      <VideoURL> https://www.youtube.com/watch?v=N9YLta5Tr2A </VideoURL>
+      <VideoURL>https://www.youtube.com/watch?v=N9YLta5Tr2A</VideoURL>
     </ExternalResources>
     <RelatedPersons>
       <RelatedPerson personIdent = "GWBush" />
@@ -95,24 +96,25 @@ Test 1
   </Crisis>
 
   <Crisis crisisIdent = "OC1973">
-    <Name> 1973 Oil Crisis </Name>
+    <Name>1973 Oil Crisis</Name>
     <Kind crisisKindIdent = "EC" />
     <Location>
-      <Country> United States </Country>
+      <Country>United States</Country>
     </Location>
     <StartDateTime>
-      <Date> 1973-10-16 </Date>
+      <Date>1973-10-16</Date>
     </StartDateTime>
     <EndDateTime>
-      <Date> 1974-03-17 </Date>
+      <Date>1974-03-17</Date>
     </EndDateTime>
     <HumanImpact>
-      <Type> Financial loss as well as panic over the possibility of war. </Type>
+      <Type>Financial loss as well as panic over the possibility of war.</Type>
+      <Number>0</Number>
     </HumanImpact>
-    <EconomicImpact> The price of oil increased 400% leading to economic leverage and wealth for oil-producing countries in the middle east. </EconomicImpact>
+    <EconomicImpact>The price of oil increased 400% leading to economic leverage and wealth for oil-producing countries in the middle east.</EconomicImpact>
     <ExternalResources>
-      <ImageURL> http://upload.wikimedia.org/wikipedia/commons/e/ed/FLAG_POLICY_DURING_THE_1973_oil_crisis.gif </ImageURL>
-      <VideoURL> http://www.youtube.com/watch?v=VCLRlVxOH-Q </VideoURL>
+      <ImageURL>http://upload.wikimedia.org/wikipedia/commons/e/ed/FLAG_POLICY_DURING_THE_1973_oil_crisis.gif</ImageURL>
+      <VideoURL>http://www.youtube.com/watch?v=VCLRlVxOH-Q</VideoURL>
     </ExternalResources>
     <RelatedPersons>
       <RelatedPerson personIdent = "BBernanke" />
@@ -123,24 +125,25 @@ Test 1
   </Crisis>
 
   <Crisis crisisIdent = "WTC2001">
-    <Name> World Trade Center Attacks </Name> 
+    <Name>World Trade Center Attacks</Name>
     <Kind crisisKindIdent = "MC" />
     <Location>
-      <Locality> New York City </Locality>
-      <Region> New York </Region>
-      <Country> United States </Country>
+      <Locality>New York City</Locality>
+      <Region>New York</Region>
+      <Country>United States</Country>
     </Location>
     <StartDateTime>
-      <Date> 2001-09-11 </Date>
+      <Date>2001-09-11</Date>
     </StartDateTime>
     <HumanImpact>
-      <Type> Loss of the feeling of security. Increase in patriotism, home and family, church, and blood donations. Stocks fell and there was a huge loss over the months following. </Type>
+      <Type>Loss of the feeling of security. Increase in patriotism, home and family, church, and blood donations. Stocks fell and there was a huge loss over the months following.</Type>
+      <Number>0</Number>
     </HumanImpact>
-    <EconomicImpact> Stock exchange closed for a week, stocks fell and billions of dollars were lost. </EconomicImpact>
+    <EconomicImpact>Stock exchange closed for a week, stocks fell and billions of dollars were lost.</EconomicImpact>
     <ExternalResources>
-      <ImageURL> http://spinalcolumnradio.files.wordpress.com/2010/07/911-twin-towers-fire.jpg </ImageURL>
-      <VideoURL> https://www.youtube.com/watch?v=_u9kieqGppE </VideoURL>
-      <MapURL> https://maps.google.com/maps?hl=enampq=1+world+trade+center+new+york+street+addressampie=UTF-8amphq=amphnear=0x89c25a1bcfb6ae35:0x83b61a4dc69b3439,One+World+Trade+Center,+Vesey+St,+New+York,+NY+10006ampgl=usampei=TEo4UdO5LIqA2gXlyYEQampved=0CDAQ8gEwAA </MapURL>
+      <ImageURL>http://spinalcolumnradio.files.wordpress.com/2010/07/911-twin-towers-fire.jpg</ImageURL>
+      <VideoURL>https://www.youtube.com/watch?v=_u9kieqGppE</VideoURL>
+      <MapURL>https://maps.google.com/maps?hl=enampq=1+world+trade+center+new+york+street+addressampie=UTF-8amphq=amphnear=0x89c25a1bcfb6ae35:0x83b61a4dc69b3439,One+World+Trade+Center,+Vesey+St,+New+York,+NY+10006ampgl=usampei=TEo4UdO5LIqA2gXlyYEQampved=0CDAQ8gEwAA</MapURL>
     </ExternalResources>
     <RelatedPersons>
       <RelatedPerson personIdent = "GWBush" />
@@ -154,47 +157,50 @@ Test 1
     </RelatedOrganizations>
   </Crisis>
 
-  <Crisis crisisIdent = "USCE1970">
-    <Name> United States Corn Epidemic of 1970 </Name>
+  <Crisis crisisIdent = "CE1970">
+    <Name>United States Corn Epidemic of 1970</Name>
     <Kind crisisKindIdent = "E" />
     <Location>
-      <Country> United States </Country>
+      <Country>United States</Country>
     </Location>
     <StartDateTime>
-      <Date> 1970-02-01 </Date>
+      <Date>1970-02-01</Date>
     </StartDateTime>
     <HumanImpact>
-      <Type> Financial loss and food shortage </Type>
+      <Type>Financial loss and food shortage</Type>
+      <Number>0</Number>
     </HumanImpact>
-    <EconomicImpact> Spikes in corn and livestock trading overnight, leading to some farmers becoming extremely wealthy overnight. </EconomicImpact>
+    <EconomicImpact>Spikes in corn and livestock trading overnight, leading to some farmers becoming extremely wealthy overnight.</EconomicImpact>
     <ExternalResources>
-      <ImageURL> http://www2.nau.edu/~bio372-c/images/sclb1s.gif </ImageURL>
+      <ImageURL>http://www2.nau.edu/~bio372-c/images/sclb1s.gif</ImageURL>
+      <ImageURL>http://www2.nau.edu/~bio372-c/images/sclb4s.gif</ImageURL>
     </ExternalResources>
     <RelatedPersons>
       <RelatedPerson personIdent = "FDRoosevelt" />
-      <RelatedPerson personIdent = "CHardin" />
+      <RelatedPerson personIdent = "CMHardin" />
     </RelatedPersons>
     <RelatedOrganizations>
-      <RelatedOrganizations organizationIdent = "USDA" />
+      <RelatedOrganization organizationIdent = "USDA" />
     </RelatedOrganizations>
   </Crisis>
 
-  <Crisis crisisIdent = "WT2001">
-    <Name> War on Terror </Name>
+  <Crisis crisisIdent = "WOT2001">
+    <Name>War on Terror</Name>
     <Kind crisisKindIdent = "MC" />
     <Location>
-      <Country> United States </Country>
+      <Country>United States</Country>
     </Location>
     <StartDateTime>
-      <Date> 2001-10-07 </Date>
+      <Date>2001-10-07</Date>
     </StartDateTime>
     <HumanImpact>
-      <Type> Led to a people's outcry for new leadership. </Type>
+      <Type>Led to a people's outcry for new leadership.</Type>
+      <Number>0</Number>
     </HumanImpact>
-    <EconomicImpact> Spending was $1.2 trillion in 2011 and there was a long-term spending estimate of $5.4 trillion plus interest. </EconomicImpact>
+    <EconomicImpact>Spending was $1.2 trillion in 2011 and there was a long-term spending estimate of $5.4 trillion plus interest.</EconomicImpact>
     <ExternalResources>
-      <ImageURL> http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/War_on_Terror_montage1.png/800px-War_on_Terror_montage1.png </ImageURL>
-      <VideoURL> https://www.youtube.com/watch?v=gnwZVv-axMw </VideoURL>
+      <ImageURL>http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/War_on_Terror_montage1.png/800px-War_on_Terror_montage1.png</ImageURL>
+      <VideoURL>https://www.youtube.com/watch?v=gnwZVv-axMw</VideoURL>
     </ExternalResources>
     <RelatedPersons>
       <RelatedPerson personIdent = "GWBush" />
@@ -209,52 +215,54 @@ Test 1
     </RelatedOrganizations>
   </Crisis>
 
-  <Crisis crisisIdent = "WWT1939">
-    <Name> World War Two </Name>
+  <Crisis crisisIdent = "WWII1939">
+    <Name>World War Two</Name>
     <Kind crisisKindIdent = "MC" />
     <Location>
-      <Country> Poland </Country>
+      <Country>Poland</Country>
     </Location>
     <StartDateTime>
-      <Date> 1939-11-01 </Date>
+      <Date>1939-11-01</Date>
     </StartDateTime>
     <EndDateTime>
-      <Date> 1945-08-14 </Date>
+      <Date>1945-08-14</Date>
     </EndDateTime>
     <HumanImpact>
-      <Type> Bombings, starvation, disease </Type>
+      <Type>Bombings, starvation, disease</Type>
+      <Number>0</Number>
     </HumanImpact>
-    <EconomicImpact> US emerged much more wealthy than any other nation despite the global economy's heavy suffering. </EconomicImpact>
+    <EconomicImpact>US emerged much more wealthy than any other nation despite the global economy's heavy suffering.</EconomicImpact>
     <ExternalResources>
-      <ImageURL> http://upload.wikimedia.org/wikipedia/commons/5/54/Infobox_collage_for_WWII.PNG </ImageURL>
-      <VideoURL> https://www.youtube.com/watch?v=ts-Ch2IaRh4 </VideoURL>
+      <ImageURL>http://upload.wikimedia.org/wikipedia/commons/5/54/Infobox_collage_for_WWII.PNG</ImageURL>
+      <VideoURL>https://www.youtube.com/watch?v=ts-Ch2IaRh4</VideoURL>
     </ExternalResources>
     <RelatedPersons>
       <RelatedPerson personIdent = "FDRoosevelt" />
     </RelatedPersons>
     <RelatedOrganizations>
-      <RelatedOrganizations organizationIdent = "UN" />
-      <RelatedOrganizations organizationIdent = "CIA" />
+      <RelatedOrganization organizationIdent = "UN" />
+      <RelatedOrganization organizationIdent = "CIA" />
     </RelatedOrganizations>
   </Crisis>
 
   <Crisis crisisIdent = "GEC2009">
-    <Name> Greek Economic Collapse </Name>
+    <Name>Greek Economic Collapse</Name>
     <Kind crisisKindIdent = "EC" />
     <Location>
-      <Country> Greece </Country>
+      <Country>Greece</Country>
     </Location>
     <StartDateTime>
-      <Date> 2009-12-01 </Date>
+      <Date>2009-12-01</Date>
     </StartDateTime>
     <HumanImpact>
-      <Type> Right-wing party linked to anti-immigrant violence. </Type>
+      <Type>Right-wing party linked to anti-immigrant violence.</Type>
+      <Number>0</Number>
     </HumanImpact>
-    <EconomicImpact> Nearly brought down the entire country and removal from the European Union. </EconomicImpact>
+    <EconomicImpact>Nearly brought down the entire country and removal from the European Union.</EconomicImpact>
     <ExternalResources>
-      <ImageURL> http://wwp.greenwichmeantime.com/time-zone/europe/european-union/greece/images/greece-flag.jpg </ImageURL>
-      <VideoURL> http://www.youtube.com/watch?v=LVGQCFRn34M </VideoURL>
-      <MapURL> https://maps.google.com/maps?q=greeceampaq=fampum=1ampie=UTF-8amphl=enampsa=Namptab=wl </MapURL>
+      <ImageURL>http://wwp.greenwichmeantime.com/time-zone/europe/european-union/greece/images/greece-flag.jpg</ImageURL>
+      <VideoURL>http://www.youtube.com/watch?v=LVGQCFRn34M</VideoURL>
+      <MapURL>https://maps.google.com/maps?q=greeceampaq=fampum=1ampie=UTF-8amphl=enampsa=Namptab=wl</MapURL>
     </ExternalResources>
     <RelatedPersons>
       <RelatedPerson personIdent = "MDraghi" />
@@ -266,22 +274,23 @@ Test 1
   </Crisis>
 
   <Crisis crisisIdent = "RFC2007">
-    <Name> Russian Financial Crisis </Name>
+    <Name>Russian Financial Crisis</Name>
     <Kind crisisKindIdent = "FC" />
     <Location>
-      <Country> Russia </Country>
+      <Country>Russia</Country>
     </Location>
     <StartDateTime>
-      <Date> 2007-08-07 </Date>
+      <Date>2007-08-07</Date>
     </StartDateTime>
     <HumanImpact>
-      <Type> Huge wave of unemployment and social unrest. </Type>
+      <Type>Huge wave of unemployment and social unrest.</Type>
+      <Number>0</Number>
     </HumanImpact>
-    <EconomicImpact> Inevitable recession, consumer price inflation, unemployment at a 7 year high. </EconomicImpact>
+    <EconomicImpact>Inevitable recession, consumer price inflation, unemployment at a 7 year high.</EconomicImpact>
     <ExternalResources>
-      <ImageURL> http://images.nationalgeographic.com/wpf/media-live/photos/000/060/cache/russia-st-basils_6026_600x450.jpg </ImageURL>
-      <VideoURL> https://www.youtube.com/watch?v=us1n3DRvLug </VideoURL>
-      <MapURL> http://www.lib.utexas.edu/maps/commonwealth/russia_auton_92.jpg </MapURL>
+      <ImageURL>http://images.nationalgeographic.com/wpf/media-live/photos/000/060/cache/russia-st-basils_6026_600x450.jpg</ImageURL>
+      <VideoURL>https://www.youtube.com/watch?v=us1n3DRvLug</VideoURL>
+      <MapURL>http://www.lib.utexas.edu/maps/commonwealth/russia_auton_92.jpg</MapURL>
     </ExternalResources>
     <RelatedPersons>
       <RelatedPerson personIdent = "MDraghi" />
@@ -295,7 +304,7 @@ Test 1
 
   <Organization organizationIdent="USDA">
     <Name>United States Department of Agriculture</Name>
-    <Kind organizationKindIdent="AD">Agricultural Department</Kind>
+    <Kind organizationKindIdent="AD"/>
     <Location>
       <Locality>Washington</Locality>
       <Region>D.C.</Region>
@@ -303,15 +312,15 @@ Test 1
     </Location>
     <History>On May 15, 1862, Abraham Lincoln signed into law the Agricultural Act that established the U.S. Department of Agriculture. Since then, the Department has had a rich and varied history. The resources below explore that history, along with the history and organization of USDA's associated agencies and staff offices.</History>
     <ContactInfo>
-      <Telephone>(202) 720-2791</Telephone>
-      <Fax></Fax>
-      <Email></Email>
+      <Telephone>202 720 2791</Telephone>
+      <Fax/>
+      <Email/>
       <PostalAddress>
-      <StreetAddress>1400 Independence Ave., S.W.</StreetAddress>
-      <Locality>Washington</Locality>
-      <Region>D.C.</Region>
-      <PostalCode>20250</PostalCode>
-      <Country>United States</Country>
+        <StreetAddress>1400 Independence Ave., S.W.</StreetAddress>
+        <Locality>Washington</Locality>
+        <Region>D.C.</Region>
+        <PostalCode>20250</PostalCode>
+        <Country>United States</Country>
       </PostalAddress>
     </ContactInfo>
     <ExternalResources>
@@ -326,13 +335,13 @@ Test 1
     <RelatedPersons>
       <RelatedPerson personIdent="GWBush"></RelatedPerson>
       <RelatedPerson personIdent="BHObama"></RelatedPerson>
-      <RelatedPerson personIdent="CHardin"></RelatedPerson>
+      <RelatedPerson personIdent="CMHardin"></RelatedPerson>
     </RelatedPersons>
   </Organization>
 
   <Organization organizationIdent="SEC">
     <Name>U.S. Securities and Exchange Commission</Name>
-    <Kind organizationKindIdent="NS">National Security</Kind>
+    <Kind organizationKindIdent="NS"/>
     <Location>
       <Locality>Washington</Locality>
       <Region>D.C.</Region>
@@ -340,7 +349,9 @@ Test 1
     </Location>
     <History>Prior to the enactment of the federal securities laws and the creation of the SEC, there existed so-called blue sky laws. They were enacted and enforced at the state level, and regulated the offering and sale of securities to protect the public from fraud. Though the specific provisions of these laws varied among states, they all required the registration of all securities offerings and sales, as well as of every U.S. stock broker and brokerage firm.</History>
     <ContactInfo>
-      <Telephone>(202) 942-8088</Telephone>
+      <Telephone>202 942 8088</Telephone>
+      <Fax/>
+      <Email/>
       <PostalAddress>
         <StreetAddress>100 F Street, NE</StreetAddress>
         <Locality>Washington</Locality>
@@ -356,7 +367,7 @@ Test 1
       <SocialNetworkURL>http://www.facebook.com/pages/US-Securities-and-Exchange-Commission/109531262399131?fref=ts</SocialNetworkURL>
     </ExternalResources>
     <RelatedCrises>
-      <RelatedCrisis crisisIdent="ES2001"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="E2001"></RelatedCrisis>
     </RelatedCrises>
     <RelatedPersons>
       <RelatedPerson personIdent="GWBush"></RelatedPerson>
@@ -367,7 +378,7 @@ Test 1
 
   <Organization organizationIdent="FDIC">
     <Name>Federal Department Insurance Corporation</Name>
-    <Kind organizationKindIdent="IC">Insurance Corporation</Kind>
+    <Kind organizationKindIdent="IC"/>
     <Location>
       <Locality>Washington</Locality>
       <Region>D.C.</Region>
@@ -375,7 +386,11 @@ Test 1
     </Location>
     <History></History>
     <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
       <PostalAddress>
+        <StreetAddress/>
         <Locality>Washington</Locality>
         <Region>D.C.</Region>
         <PostalCode></PostalCode>
@@ -400,7 +415,7 @@ Test 1
 
   <Organization organizationIdent="FR">
     <Name>Federal Reserve</Name>
-    <Kind organizationKindIdent="CB">Central Bank</Kind>
+    <Kind organizationKindIdent="CB"/>
     <Location>
       <Locality>Washington</Locality>
       <Region>D.C.</Region>
@@ -408,9 +423,9 @@ Test 1
     </Location>
     <History>In 1791, the government granted the First Bank of the United States a charter to operate as the U.S. central bank until 1811. The First Bank of the United States came to an end under President Madison because Congress refused to renew its charter. The Second Bank of the United States was established in. 1816, and lost its authority to be the central bank of the U.S. twenty years later under President Jackson when its charter expired. Both banks were based upon the Bank of England. Ultimately, a third national bank, known as the Federal Reserve, was established in 1913 and still exists to this day.</History>
     <ContactInfo>
-      <Telephone>888-851-1920</Telephone>
-      <Fax></Fax>
-      <Email></Email>
+      <Telephone>888 851 1920</Telephone>
+      <Fax/>
+      <Email/>
       <PostalAddress>
         <StreetAddress>20th Street and Constitution Avenue N.W.</StreetAddress>
         <Locality>Washington</Locality>
@@ -434,13 +449,13 @@ Test 1
       <RelatedPerson personIdent="GWBush"></RelatedPerson>
       <RelatedPerson personIdent="BHObama"></RelatedPerson>
       <RelatedPerson personIdent="FDRoosevelt"></RelatedPerson>
-      <RelatedPerson personIdent="BBernankez"></RelatedPerson>
+      <RelatedPerson personIdent="BBernanke"></RelatedPerson>
     </RelatedPersons>
   </Organization>
 
   <Organization organizationIdent="UN">
     <Name>United Nations</Name>
-    <Kind organizationKindIdent="MA">Military Alliance</Kind>
+    <Kind organizationKindIdent="MA"/>
     <Location>
       <Locality>New York</Locality>
       <Region>New York</Region>
@@ -448,8 +463,11 @@ Test 1
     </Location>
     <History>The League of Nations failed to prevent World War II (1939ñ1945). Because of the widespread recognition that humankind could not afford a third world war, the United Nations was established to replace the flawed League of Nations in 1945 in order to maintain international peace and promote cooperation in solving international economic, social, and humanitarian problems. The earliest concrete plan for a new world organization was begun under the aegis of the U.S. State Department in 1939. Franklin D. Roosevelt first coined the term 'United Nations' as a term to describe the Allied countries. The term was first officially used on 1 January 1942, when 26 governments signed the Atlantic Charter, pledging to continue the war effort. On 25 April 1945, the UN Conference on International Organization began in San Francisco, attended by 50 governments and a number of non-governmental organizations involved in drafting the United Nations Charter. The UN officially came into existence on 24 October 1945 upon ratification of the Charter by the five then-permanent members of the Security CouncilóFrance, the Republic of China, the Soviet Union, the United Kingdom and the United Statesóand by a majority of the other 46 signatories. The first meetings of the General Assembly, with 51 nations represented, and the Security Council, took place in Methodist Central Hall Westminster in London beginning 6 January 1946.</History>
     <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
       <PostalAddress>
-        <StreetAddress> 405 E 42nd St</StreetAddress>
+        <StreetAddress>405 E 42nd St</StreetAddress>
         <Locality>New york</Locality>
         <Region>New York</Region>
         <PostalCode>10017</PostalCode>
@@ -478,7 +496,7 @@ Test 1
 
   <Organization organizationIdent="LB">
     <Name>Lehman Brothers</Name>
-    <Kind organizationKindIdent="IB">Investment Bank</Kind>
+    <Kind organizationKindIdent="IB"/>
     <Location>
       <Locality>New York</Locality>
       <Region>New York</Region>
@@ -486,7 +504,11 @@ Test 1
     </Location>
     <History>Lehman Brothers Holdings Inc. was a global financial services firm. Before declaring bankruptcy in 2008, Lehman was the fourth-largest investment bank in the US, doing business in investment banking, equity and fixed-income sales and trading (especially U.S. Treasury securities), research, investment management, private equity, and private banking.</History>
     <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
       <PostalAddress>
+        <StreetAddress/>
         <Locality>New York</Locality>
         <Region>New York</Region>
         <PostalCode></PostalCode>
@@ -502,13 +524,13 @@ Test 1
     <RelatedPersons>
       <RelatedPerson personIdent="GWBush"></RelatedPerson>
       <RelatedPerson personIdent="BHObama"></RelatedPerson>
-      <RelatedPerson personIdent="BBernankez"></RelatedPerson>
+      <RelatedPerson personIdent="BBernanke"></RelatedPerson>
     </RelatedPersons>
   </Organization>
 
   <Organization organizationIdent="NATO">
     <Name>North Alantic Treaty Organization</Name>
-    <Kind organizationKindIdent="MA">Military Alliance</Kind>
+    <Kind organizationKindIdent="MA"/>
     <Location>
       <Locality>Brussels</Locality>
       <Region>Belgium</Region>
@@ -516,7 +538,11 @@ Test 1
     </Location>
     <History>The Treaty of Brussels, signed on 17 March 1948 by Belgium, the Netherlands, Luxembourg, France, and the United Kingdom, is considered the precursor to the NATO agreement. The treaty and the Soviet Berlin Blockade led to the creation of the Western European Union's Defence Organization in September 1948. However, participation of the United States was thought necessary both to counter the military power of the USSR and to prevent the revival of nationalist militarism, so talks for a new military alliance began almost immediately resulting in the North Atlantic Treaty, which was signed in Washington, D.C. on 4 April 1949. It included the five Treaty of Brussels states plus the United States, Canada, Portugal, Italy, Norway, Denmark and Iceland. Popular support for the Treaty was not unanimous, and some Icelanders participated in a pro-neutrality, anti-membership riot in March 1949. The members agreed that an armed attack against any one of them in Europe or North America would be considered an attack against them all. Consequently they agreed that, if an armed attack occurred, each of them, in exercise of the right of individual or collective self-defence, would assist the member being attacked, taking such action as it deemed necessary, including the use of armed force, to restore and maintain the security of the North Atlantic area. The treaty does not require members to respond with military action against an aggressor. Although obliged to respond, they maintain the freedom to choose the method by which they do so. This differs from Article IV of the Treaty of Brussels, which clearly states that the response will be military in nature. It is nonetheless assumed that NATO members will aid the attacked member militarily. The treaty was later clarified to include both the member's territory and their "vessels, forces or aircraft" above the Tropic of Cancer, including some Overseas departments of France.</History>
     <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
       <PostalAddress>
+        <StreetAddress/>
         <Locality>Brussels</Locality>
         <Region>Belgium</Region>
         <PostalCode></PostalCode>
@@ -542,8 +568,21 @@ Test 1
 
   <Organization organizationIdent="AQ">
     <Name>Al-Qaeda</Name>
-    <Kind organizationKindIdent="TO">Terrorist Organization</Kind>
+    <Kind organizationKindIdent="TO"/>
+    <Location/>
     <History>Al-Qaeda is a global militant Islamist organization founded by Osama bin Laden at some point between August 1988 and late 1989, with its origins being traceable to the Soviet War in Afghanistan. It operates as a network comprising both a multinational, stateless army and a radical Sunni Muslim movement calling for global Jihad and a strict interpretation of sharia law. It has been designated as a terrorist organization by the United Nations Security Council, NATO, the European Union, the United Kingdom, the United States, and various other countries. Al-Qaeda has carried out several attacks on non-Muslims, and other targets it considers kafir.</History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality/>
+        <Region/>
+        <PostalCode/>
+        <Country/>
+      </PostalAddress>
+    </ContactInfo>
     <ExternalResources>
       <ImageURL>http://media.novinky.cz/692/196922-original1-1x6yb.jpg</ImageURL>
       <VideoURL>http://www.youtube.com/watch?v=zUUUS_wRKLo</VideoURL>
@@ -561,7 +600,7 @@ Test 1
 
   <Organization organizationIdent="ECB">
     <Name>European Central Bank</Name>
-    <Kind organizationKindIdent="CB">Central Bank</Kind>
+    <Kind organizationKindIdent="CB"/>
     <Location>
       <Locality>Frankfurt</Locality>
       <Region>Hesse</Region>
@@ -569,7 +608,11 @@ Test 1
     </Location>
     <History>The European Central Bank (ECB) is one of the seven institutions of the European Union (EU) listed in the Treaty on European Union(TEU). It is the central bank for the euro and administers the monetary policy of the 17 EU member states which constitute the Eurozone, one of the largest currency areas in the world. It is thus one of the world's most important central banks.</History>
     <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
       <PostalAddress>
+        <StreetAddress/>
         <Locality>Frankfurt</Locality>
         <Region>Hesse</Region>
         <PostalCode></PostalCode>
@@ -594,7 +637,7 @@ Test 1
 
   <Organization organizationIdent="CIA">
     <Name>Central Intelligence Agency</Name>
-    <Kind organizationKindIdent="NS">National Security</Kind>
+    <Kind organizationKindIdent="NS"/>
     <Location>
       <Locality>McLean</Locality>
       <Region>Virginia</Region>
@@ -602,7 +645,11 @@ Test 1
     </Location>
     <History>The Central Intelligence Agency (CIA) is an independent civilian intelligence agency of the United States government. It is an executive agency and reports directly to the Director of National Intelligence, with responsibility for providing national security intelligence assessment to senior United States policymakers. Intelligence-gathering is performed by non-military commissioned civilian intelligence agents, many of whom are trained to avoid tactical situations. The CIA also oversees and sometimes engages in tactical and covert activities at the request of the President of the United States. Often, when such field operations are organized, the U.S. military or other warfare tacticians carry these tactical operations out on behalf of the agency while the CIA oversees them. Although intelligence-gathering is the agency's main agenda, tactical divisions were established in the agency to carry out emergency field operations that require immediate suppression or dismantling of a threat or weapon. The CIA's headquarters is located in Langley, McLean, Fairfax County, Virginia, a few miles west of Washington, D.C.</History>
     <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
       <PostalAddress>
+        <StreetAddress/>
         <Locality>McLean</Locality>
         <Region>Virginia</Region>
         <PostalCode></PostalCode>
@@ -632,7 +679,7 @@ Test 1
       <MiddleName>Delano</MiddleName>
       <LastName>Roosevelt</LastName>
     </Name>
-    <Kind personKindIdent="PR">President</Kind>
+    <Kind personKindIdent="PR"/>
     <Location>
       <Locality>Hyde Park</Locality>
       <Region>New York</Region>
@@ -659,7 +706,7 @@ Test 1
       <LastName>Bush</LastName>
       <Suffix></Suffix>
     </Name>
-    <Kind personKindIdent="PR">President</Kind>
+    <Kind personKindIdent="PR" />
     <Location>
       <Locality>New Haven</Locality>
       <Region>Connecticut</Region>
@@ -673,7 +720,7 @@ Test 1
       <RelatedCrisis crisisIdent="E2001"></RelatedCrisis>
       <RelatedCrisis crisisIdent="FC2008"></RelatedCrisis>
       <RelatedCrisis crisisIdent="WTC2001"></RelatedCrisis>
-      <RelatedCrisis crisisIdent="WT2001"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="WTC2001"></RelatedCrisis>
     </RelatedCrises>
     <RelatedOrganizations>
       <RelatedOrganization organizationIdent="FDIC"></RelatedOrganization>
@@ -695,7 +742,7 @@ Test 1
       <LastName>Obama</LastName>
       <Suffix>II</Suffix>
     </Name>
-    <Kind personKindIdent="PR">President</Kind>
+    <Kind personKindIdent="PR" />
     <Location>
       <Locality>Honolulu</Locality>
       <Region>Hawaii</Region>
@@ -707,7 +754,7 @@ Test 1
     </ExternalResources>
     <RelatedCrises>
       <RelatedCrisis crisisIdent="FC2008"></RelatedCrisis>
-      <RelatedCrisis crisisIdent="WT2001"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="WTC2001"></RelatedCrisis>
     </RelatedCrises>
     <RelatedOrganizations>
       <RelatedOrganization organizationIdent="FDIC"></RelatedOrganization>
@@ -729,7 +776,7 @@ Test 1
       <LastName>Hussein</LastName>
       <Suffix></Suffix>
     </Name>
-    <Kind personKindIdent="PR">President</Kind>
+    <Kind personKindIdent="PR"/>
     <Location>
       <Locality>Al-Awja</Locality>
       <Region></Region>
@@ -740,7 +787,7 @@ Test 1
       <VideoURL>http://www.biography.com/people/saddam-hu47918</VideoURL>
     </ExternalResources>
     <RelatedCrises>
-      <RelatedCrisis crisisIdent="WT2001"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="WTC2001"></RelatedCrisis>
       <RelatedCrisis crisisIdent="OC1973"></RelatedCrisis>
     </RelatedCrises>
     <RelatedOrganizations>
@@ -757,7 +804,7 @@ Test 1
       <LastName>Laden</LastName>
       <Suffix></Suffix>
     </Name>
-    <Kind personKindIdent="TL">Terrorist Leader</Kind>
+    <Kind personKindIdent="TL"/>
     <Location>
       <Locality>Riyadh</Locality>
       <Region></Region>
@@ -769,7 +816,6 @@ Test 1
     </ExternalResources>
     <RelatedCrises>
       <RelatedCrisis crisisIdent="WTC2001"></RelatedCrisis>
-      <RelatedCrisis crisisIdent="WT2001"></RelatedCrisis>
     </RelatedCrises>
     <RelatedOrganizations>
       <RelatedOrganization organizationIdent="NATO"></RelatedOrganization>
@@ -785,7 +831,7 @@ Test 1
       <LastName>LAY</LastName>
       <Suffix></Suffix>
     </Name>
-    <Kind personKindIdent="BM">Businessman</Kind>
+    <Kind personKindIdent="BM" />
     <Location>
       <Locality>Tyrone</Locality>
       <Region>Missouri</Region>
@@ -810,7 +856,7 @@ Test 1
       <LastName>Bernanke</LastName>
       <Suffix></Suffix>
     </Name>
-    <Kind personKindIdent="FRC">Federal Reserve Chairman</Kind>
+    <Kind personKindIdent="FRC"/>
     <Location>
       <Locality>Augusta</Locality>
       <Region>Georgia</Region>
@@ -836,7 +882,7 @@ Test 1
       <LastName>Hardin</LastName>
       <Suffix></Suffix>
     </Name>
-    <Kind personKindIdent="SA">Secretary of Agriculture</Kind>
+    <Kind personKindIdent="SA"/>
     <Location>
       <Locality>Knightstown</Locality>
       <Region>Indiana</Region>
@@ -846,7 +892,7 @@ Test 1
       <ImageURL>http://graphics8.nytimes.com/images/2010/04/06/us/06hardin_CA1/06hardin_CA1-articleInline.jpg</ImageURL>
     </ExternalResources>
     <RelatedCrises>
-      <RelatedCrisis crisisIdent="USCE1970"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="CE1970"></RelatedCrisis>
     </RelatedCrises>
     <RelatedOrganizations>
       <RelatedOrganization organizationIdent="USDA"></RelatedOrganization>
@@ -860,7 +906,7 @@ Test 1
       <LastName>Draghi</LastName>
       <Suffix></Suffix>
     </Name>
-    <Kind personKindIdent="PR">President</Kind>
+    <Kind personKindIdent="PR"/>
     <Location>
       <Locality>Rome</Locality>
       <Region></Region>
@@ -886,7 +932,7 @@ Test 1
       <LastName>Greenspan</LastName>
       <Suffix></Suffix>
     </Name>
-    <Kind personKindIdent="FRC">Federal Reserve Chairman</Kind>
+    <Kind personKindIdent="FRC"/>
     <Location>
       <Locality>New York</Locality>
       <Region>New York</Region>
@@ -905,23 +951,23 @@ Test 1
   </Person>
 
   <CrisisKind crisisKindIdent = "EC">
-    <Name> Economic Crisis </Name>
-    <Description> Crisis that significantly alters and threatens the economic state of the region. </Description>
+    <Name>Economic Crisis</Name>
+    <Description>Crisis that significantly alters and threatens the economic state of the region.</Description>
   </CrisisKind>
 
   <CrisisKind crisisKindIdent = "FC">
-    <Name> Financial Crisis </Name>
-    <Description> Crisis that results in a significant loss of money. </Description>
+    <Name>Financial Crisis</Name>
+    <Description>Crisis that results in a significant loss of money.</Description>
   </CrisisKind>
 
   <CrisisKind crisisKindIdent = "MC">
-    <Name> Military Crisis </Name>
-    <Description> Crisis that requires military involvement, often war. </Description>
+    <Name>Military Crisis</Name>
+    <Description>Crisis that requires military involvement, often war.</Description>
   </CrisisKind>
 
   <CrisisKind crisisKindIdent = "E">
-    <Name> Epidemic </Name>
-    <Description> Crisis that results in widespread disease and sickness. </Description>
+    <Name>Epidemic</Name>
+    <Description>Crisis that results in widespread disease and sickness.</Description>
   </CrisisKind>
 
   <OrganizationKind organizationKindIdent="AD">
@@ -988,9 +1034,6 @@ Test 1
 
 
 
-
-
-
 -----
 Test2
 -----
@@ -1006,15 +1049,17 @@ Test2
       <Country>country2</Country>
     </Location>
     <StartDateTime>
-      <Date>2012-12-12</Date>
+      <Date>2222-02-02</Date>
     </StartDateTime>
     <HumanImpact>
-      <Type> HelloWorld </Type>
-      <Number> 90 </Number>
+      <Type>type2</Type>
+      <Number>2222222222</Number>
     </HumanImpact>
-    <EconomicImpact> This was super crazy. </EconomicImpact>
+    <EconomicImpact>economicimpact2</EconomicImpact>
     <ExternalResources>
-      <ImageURL>http://www.helloworld.com</ImageURL>
+      <ImageURL>http://22.com</ImageURL>
+      <VideoURL>http://www.222.com</VideoURL>
+      <MapURL>https://www.222222.org</MapURL>
     </ExternalResources>
     <RelatedPersons>
       <RelatedPerson personIdent = "p2" />
@@ -1025,26 +1070,28 @@ Test2
   </Crisis>
 
   <Organization organizationIdent="o2">
-    <Name>Org2</Name>
-    <Kind organizationKindIdent="ok2">hey</Kind>
+    <Name>name2</Name>
+    <Kind organizationKindIdent="ok2"/>
     <Location>
-      <Locality>city</Locality>
-      <Region>state</Region>
-      <Country>country</Country>
+      <Locality>locality2</Locality>
+      <Region>region2</Region>
+      <Country>country2</Country>
     </Location>
-    <History>this history is crazy</History>
+    <History>history2</History>
     <ContactInfo>
-      <Telephone>1 234 567 8910</Telephone>
+      <Telephone/>
+      <Fax/>
+      <Email/>
       <PostalAddress>
-        <StreetAddress>hello</StreetAddress>
-        <Locality>this</Locality>
-        <Region>is</Region>
-        <PostalCode>55555</PostalCode>
-        <Country>whereilive</Country>
+        <StreetAddress/>
+        <Locality>locality2</Locality>
+        <Region>region2</Region>
+        <PostalCode>22222</PostalCode>
+        <Country>country2</Country>
       </PostalAddress>
     </ContactInfo>
     <ExternalResources>
-      <ImageURL>http://www.hello.org/boo</ImageURL>
+      <ImageURL>https://22.2222.edu</ImageURL>
     </ExternalResources>
     <RelatedCrises>
       <RelatedCrisis crisisIdent="c2"></RelatedCrisis>
@@ -1053,21 +1100,23 @@ Test2
       <RelatedPerson personIdent="p2"></RelatedPerson>
     </RelatedPersons>
   </Organization>
+ 
 
   <Person personIdent="p2">
     <Name>
-      <FirstName>fname</FirstName>
-      <MiddleName>mname</MiddleName>
-      <LastName>lname</LastName>
+      <FirstName>firstname2</FirstName>
+      <MiddleName>middlename2</MiddleName>
+      <LastName>lastname2</LastName>
     </Name>
-    <Kind personKindIdent="pk2">hi</Kind>
+    <Kind personKindIdent="pk2"/>
     <Location>
-      <Locality>loc</Locality>
-      <Region>reg</Region>
-      <Country>count</Country>
+      <Locality>locality2</Locality>
+      <Region>region2</Region>
+      <Country>unitedstates2</Country>
     </Location>
     <ExternalResources>
-      <ImageURL>https://www.test.com</ImageURL>
+      <ImageURL>http://22.222.org/22/222/2/22/2/2222/22.jpg</ImageURL>
+      <VideoURL>http://2.com</VideoURL>
     </ExternalResources>
     <RelatedCrises>
       <RelatedCrisis crisisIdent="c2"></RelatedCrisis>
@@ -1077,27 +1126,22 @@ Test2
     </RelatedOrganizations>
   </Person>
 
-
-
-
   <CrisisKind crisisKindIdent = "ck2">
-    <Name>crisis kind 2</Name>
-    <Description>crisis kind for accept 2</Description>
+    <Name>crisis name 2</Name>
+    <Description>crisiskindIdent for acceptance test 2</Description>
   </CrisisKind>
 
   <OrganizationKind organizationKindIdent="ok2">
-    <Name>org kind 2</Name>
-    <Description>org kind for accept 2</Description>
+    <Name>organization name 2</Name>
+    <Description>organizationkindIdent for acceptance test 2</Description>
   </OrganizationKind>
 
-  <PersonKind personKindIdent="pk2">
-    <Name>person kind 2</Name>
-    <Description>person kind for accept 2</Description>
-  </PersonKind>
+<PersonKind personKindIdent="pk2">
+    <Name>person name 2</Name>
+    <Description>personkindIdent for acceptance test 2</Description>
+</PersonKind>
 
 </WorldCrises>
-
-
 
 
 -----
@@ -1106,8 +1150,8 @@ Test3
 <?xml version = "1.0" ?>
 
 <WorldCrises>
-  <Crisis crisisIdent = "c2">
-    <Name>name2</Name>
+  <Crisis crisisIdent = "c3">
+    <Name>name3</Name>
     <Kind crisisKindIdent = "ck3" />
     <Location>
       <Locality>locality3</Locality>
@@ -1115,15 +1159,17 @@ Test3
       <Country>country3</Country>
     </Location>
     <StartDateTime>
-      <Date>2014-11-02</Date>
+      <Date>3333-03-03</Date>
     </StartDateTime>
     <HumanImpact>
-      <Type> football </Type>
-      <Number> 80 </Number>
+      <Type>type3</Type>
+      <Number>3333333333</Number>
     </HumanImpact>
-    <EconomicImpact> Touchdown </EconomicImpact>
+    <EconomicImpact>economicimpact3</EconomicImpact>
     <ExternalResources>
-      <ImageURL>http://www.nfl.com</ImageURL>
+      <ImageURL>http://33.com</ImageURL>
+      <VideoURL>http://www.333.com</VideoURL>
+      <MapURL>https://www.333333.org</MapURL>
     </ExternalResources>
     <RelatedPersons>
       <RelatedPerson personIdent = "p3" />
@@ -1134,26 +1180,28 @@ Test3
   </Crisis>
 
   <Organization organizationIdent="o3">
-    <Name>Org3</Name>
-    <Kind organizationKindIdent="ok3">holla</Kind>
+    <Name>name3</Name>
+    <Kind organizationKindIdent="ok3"/>
     <Location>
-      <Locality>city</Locality>
-      <Region>state</Region>
-      <Country>country</Country>
+      <Locality>locality3</Locality>
+      <Region>region3</Region>
+      <Country>country3</Country>
     </Location>
-    <History>fumble</History>
+    <History>history3</History>
     <ContactInfo>
-      <Telephone>218 789 2309</Telephone>
+      <Telephone/>
+      <Fax/>
+      <Email/>
       <PostalAddress>
-        <StreetAddress>My</StreetAddress>
-        <Locality>car</Locality>
-        <Region>is</Region>
-        <PostalCode>55555</PostalCode>
-        <Country>blue</Country>
+        <StreetAddress/>
+        <Locality>locality3</Locality>
+        <Region>region3</Region>
+        <PostalCode>33333</PostalCode>
+        <Country>country3</Country>
       </PostalAddress>
     </ContactInfo>
     <ExternalResources>
-      <ImageURL>http://www.blue.org/</ImageURL>
+      <ImageURL>https://33.3333.edu</ImageURL>
     </ExternalResources>
     <RelatedCrises>
       <RelatedCrisis crisisIdent="c3"></RelatedCrisis>
@@ -1162,21 +1210,23 @@ Test3
       <RelatedPerson personIdent="p3"></RelatedPerson>
     </RelatedPersons>
   </Organization>
+ 
 
   <Person personIdent="p3">
     <Name>
-      <FirstName>Jack</FirstName>
-      <MiddleName>Bean</MiddleName>
-      <LastName>Stalk</LastName>
+      <FirstName>firstname3</FirstName>
+      <MiddleName>middlename3</MiddleName>
+      <LastName>lastname3</LastName>
     </Name>
-    <Kind personKindIdent="pk3">bye</Kind>
+    <Kind personKindIdent="pk3"/>
     <Location>
-      <Locality>loc</Locality>
-      <Region>reg</Region>
-      <Country>count</Country>
+      <Locality>locality3</Locality>
+      <Region>region3</Region>
+      <Country>unitedstates3</Country>
     </Location>
     <ExternalResources>
-      <ImageURL>https://www.hw.com</ImageURL>
+      <ImageURL>http://33.333.org/33/333/3/33/3/3333/33.jpg</ImageURL>
+      <VideoURL>http://3.com</VideoURL>
     </ExternalResources>
     <RelatedCrises>
       <RelatedCrisis crisisIdent="c3"></RelatedCrisis>
@@ -1186,29 +1236,22 @@ Test3
     </RelatedOrganizations>
   </Person>
 
-
-
-
   <CrisisKind crisisKindIdent = "ck3">
-    <Name>crisis kind 3</Name>
-    <Description>crisis kind for accept 3</Description>
+    <Name>crisis name 3</Name>
+    <Description>crisiskindIdent for acceptance test 3</Description>
   </CrisisKind>
 
   <OrganizationKind organizationKindIdent="ok3">
-    <Name>org kind 3</Name>
-    <Description>org kind for accept 3</Description>
+    <Name>organization name 3</Name>
+    <Description>organizationkindIdent for acceptance test 3</Description>
   </OrganizationKind>
 
-  <PersonKind personKindIdent="pk3">
-    <Name>person kind 3</Name>
-    <Description>person kind for accept 3</Description>
-  </PersonKind>
+<PersonKind personKindIdent="pk3">
+    <Name>person name 3</Name>
+    <Description>personkindIdent for acceptance test 3</Description>
+</PersonKind>
 
 </WorldCrises>
-
-
-
-
 
 
 -----
@@ -1218,23 +1261,25 @@ Test4
 
 <WorldCrises>
   <Crisis crisisIdent = "c4">
-    <Name>oh my god</Name>
+    <Name>name4</Name>
     <Kind crisisKindIdent = "ck4" />
     <Location>
-      <Locality>super hungry</Locality>
-      <Region>this is terrible</Region>
-      <Country>yall</Country>
+      <Locality>locality4</Locality>
+      <Region>region4</Region>
+      <Country>country4</Country>
     </Location>
     <StartDateTime>
-      <Date>2013-04-03</Date>
+      <Date>4444-04-04</Date>
     </StartDateTime>
     <HumanImpact>
-      <Type> i'm so tired </Type>
-      <Number> 12345 </Number>
+      <Type>type4</Type>
+      <Number>4444444444</Number>
     </HumanImpact>
-    <EconomicImpact> this is so tedious </EconomicImpact>
+    <EconomicImpact>economicimpact4</EconomicImpact>
     <ExternalResources>
-      <ImageURL>http://www.sotedious.com</ImageURL>
+      <ImageURL>http://44.com</ImageURL>
+      <VideoURL>http://www.444.com</VideoURL>
+      <MapURL>https://www.444444.org</MapURL>
     </ExternalResources>
     <RelatedPersons>
       <RelatedPerson personIdent = "p4" />
@@ -1245,26 +1290,28 @@ Test4
   </Crisis>
 
   <Organization organizationIdent="o4">
-    <Name>Org2</Name>
-    <Kind organizationKindIdent="ok4">oi</Kind>
+    <Name>name4</Name>
+    <Kind organizationKindIdent="ok4"/>
     <Location>
-      <Locality>well</Locality>
-      <Region>ok</Region>
-      <Country>thisisacountry</Country>
+      <Locality>locality4</Locality>
+      <Region>region4</Region>
+      <Country>country4</Country>
     </Location>
-    <History>history goes here</History>
+    <History>history4</History>
     <ContactInfo>
-      <Telephone>1 555 999 8888</Telephone>
+      <Telephone/>
+      <Fax/>
+      <Email/>
       <PostalAddress>
-        <StreetAddress>yep</StreetAddress>
-        <Locality>this</Locality>
-        <Region>is</Region>
-        <PostalCode>90875</PostalCode>
-        <Country>USA</Country>
+        <StreetAddress/>
+        <Locality>locality4</Locality>
+        <Region>region4</Region>
+        <PostalCode>44444</PostalCode>
+        <Country>country4</Country>
       </PostalAddress>
     </ContactInfo>
     <ExternalResources>
-      <ImageURL>http://www.url.edu/boo</ImageURL>
+      <ImageURL>https://44.4444.edu</ImageURL>
     </ExternalResources>
     <RelatedCrises>
       <RelatedCrisis crisisIdent="c4"></RelatedCrisis>
@@ -1273,21 +1320,23 @@ Test4
       <RelatedPerson personIdent="p4"></RelatedPerson>
     </RelatedPersons>
   </Organization>
+ 
 
   <Person personIdent="p4">
     <Name>
-      <FirstName>firstname</FirstName>
-      <MiddleName>middlename</MiddleName>
-      <LastName>lastname</LastName>
+      <FirstName>firstname4</FirstName>
+      <MiddleName>middlename4</MiddleName>
+      <LastName>lastname4</LastName>
     </Name>
-    <Kind personKindIdent="pk4">whee</Kind>
+    <Kind personKindIdent="pk4"/>
     <Location>
-      <Locality>lettuce</Locality>
-      <Region>would</Region>
-      <Country>be</Country>
+      <Locality>locality4</Locality>
+      <Region>region4</Region>
+      <Country>unitedstates4</Country>
     </Location>
     <ExternalResources>
-      <ImageURL>https://www.nice.org</ImageURL>
+      <ImageURL>http://44.444.org/44/444/4/44/4/4444/44.jpg</ImageURL>
+      <VideoURL>http://4.com</VideoURL>
     </ExternalResources>
     <RelatedCrises>
       <RelatedCrisis crisisIdent="c4"></RelatedCrisis>
@@ -1297,26 +1346,22 @@ Test4
     </RelatedOrganizations>
   </Person>
 
-
-
-
   <CrisisKind crisisKindIdent = "ck4">
-    <Name>crisis kind 4</Name>
-    <Description>crisis kind for accept 4</Description>
+    <Name>crisis name 4</Name>
+    <Description>crisiskindIdent for acceptance test 4</Description>
   </CrisisKind>
 
   <OrganizationKind organizationKindIdent="ok4">
-    <Name>org kind 4</Name>
-    <Description>org kind for accept 4</Description>
+    <Name>organization name 4</Name>
+    <Description>organizationkindIdent for acceptance test 4</Description>
   </OrganizationKind>
 
-  <PersonKind personKindIdent="pk4">
-    <Name>person kind 4</Name>
-    <Description>person kind for accept 4</Description>
-  </PersonKind>
+<PersonKind personKindIdent="pk4">
+    <Name>person name 4</Name>
+    <Description>personkindIdent for acceptance test 4</Description>
+</PersonKind>
 
-</WorldCrises>
-
+</WorldCrises>4
 
 
 
@@ -1327,23 +1372,25 @@ Test5
 
 <WorldCrises>
   <Crisis crisisIdent = "c5">
-    <Name>Crisis I'm hungry</Name>
+    <Name>name5</Name>
     <Kind crisisKindIdent = "ck5" />
     <Location>
-      <Locality>austin</Locality>
-      <Region>texas</Region>
-      <Country>usa</Country>
+      <Locality>locality5</Locality>
+      <Region>region5</Region>
+      <Country>country5</Country>
     </Location>
     <StartDateTime>
-      <Date>2008-08-08</Date>
+      <Date>5555-05-05</Date>
     </StartDateTime>
     <HumanImpact>
-      <Type> impacts </Type>
-      <Number> 90 </Number>
+      <Type>type5</Type>
+      <Number>5555555555</Number>
     </HumanImpact>
-    <EconomicImpact>this impact</EconomicImpact>
+    <EconomicImpact>economicimpact5</EconomicImpact>
     <ExternalResources>
-      <ImageURL>http://www.cnn.com</ImageURL>
+      <ImageURL>http://55.com</ImageURL>
+      <VideoURL>http://www.555.com</VideoURL>
+      <MapURL>https://www.555555.org</MapURL>
     </ExternalResources>
     <RelatedPersons>
       <RelatedPerson personIdent = "p5" />
@@ -1354,26 +1401,28 @@ Test5
   </Crisis>
 
   <Organization organizationIdent="o5">
-    <Name>Org5</Name>
-    <Kind organizationKindIdent="ok5">hey</Kind>
+    <Name>name5</Name>
+    <Kind organizationKindIdent="ok5"/>
     <Location>
-      <Locality>buffalo</Locality>
-      <Region>new york</Region>
-      <Country>united states</Country>
+      <Locality>locality5</Locality>
+      <Region>region5</Region>
+      <Country>country5</Country>
     </Location>
-    <History>more history</History>
+    <History>history5</History>
     <ContactInfo>
-      <Telephone>1 987 654 3210</Telephone>
+      <Telephone/>
+      <Fax/>
+      <Email/>
       <PostalAddress>
-        <StreetAddress>119 boo</StreetAddress>
-        <Locality>asldk</Locality>
-        <Region>issdjfl</Region>
-        <PostalCode>4444</PostalCode>
-        <Country>USAA</Country>
+        <StreetAddress/>
+        <Locality>locality5</Locality>
+        <Region>region5</Region>
+        <PostalCode>55555</PostalCode>
+        <Country>country5</Country>
       </PostalAddress>
     </ContactInfo>
     <ExternalResources>
-      <ImageURL>http://www.123oi.com</ImageURL>
+      <ImageURL>https://55.5555.edu</ImageURL>
     </ExternalResources>
     <RelatedCrises>
       <RelatedCrisis crisisIdent="c5"></RelatedCrisis>
@@ -1382,21 +1431,23 @@ Test5
       <RelatedPerson personIdent="p5"></RelatedPerson>
     </RelatedPersons>
   </Organization>
+ 
 
   <Person personIdent="p5">
     <Name>
-      <FirstName>fname4444</FirstName>
-      <MiddleName>mname4444</MiddleName>
-      <LastName>lname4444</LastName>
+      <FirstName>firstname5</FirstName>
+      <MiddleName>middlename5</MiddleName>
+      <LastName>lastname5</LastName>
     </Name>
-    <Kind personKindIdent="pk5">hi</Kind>
+    <Kind personKindIdent="pk5"/>
     <Location>
-      <Locality>loc444</Locality>
-      <Region>reg4444</Region>
-      <Country>count4444</Country>
+      <Locality>locality5</Locality>
+      <Region>region5</Region>
+      <Country>unitedstates5</Country>
     </Location>
     <ExternalResources>
-      <ImageURL>https://www.test4444.com</ImageURL>
+      <ImageURL>http://55.555.org/55/555/5/55/5/5555/55.jpg</ImageURL>
+      <VideoURL>http://5.com</VideoURL>
     </ExternalResources>
     <RelatedCrises>
       <RelatedCrisis crisisIdent="c5"></RelatedCrisis>
@@ -1406,23 +1457,20 @@ Test5
     </RelatedOrganizations>
   </Person>
 
-
-
-
   <CrisisKind crisisKindIdent = "ck5">
-    <Name>crisis kind 5</Name>
-    <Description>crisis kind for accept 5</Description>
+    <Name>crisis name 5</Name>
+    <Description>crisiskindIdent for acceptance test 5</Description>
   </CrisisKind>
 
   <OrganizationKind organizationKindIdent="ok5">
-    <Name>org kind 5</Name>
-    <Description>org kind for accept 5</Description>
+    <Name>organization name 5</Name>
+    <Description>organizationkindIdent for acceptance test 5</Description>
   </OrganizationKind>
 
-  <PersonKind personKindIdent="pk5">
-    <Name>person kind 5</Name>
-    <Description>person kind for accept 5</Description>
-  </PersonKind>
+<PersonKind personKindIdent="pk5">
+    <Name>person name 5</Name>
+    <Description>personkindIdent for acceptance test 5</Description>
+</PersonKind>
 
 </WorldCrises>
 
@@ -1444,15 +1492,17 @@ Test6
       <Country>country6</Country>
     </Location>
     <StartDateTime>
-      <Date>6014-11-06</Date>
+      <Date>6666-06-06</Date>
     </StartDateTime>
     <HumanImpact>
-      <Type> football </Type>
-      <Number> 80 </Number>
+      <Type>type6</Type>
+      <Number>6666666666</Number>
     </HumanImpact>
-    <EconomicImpact> EC6 </EconomicImpact>
+    <EconomicImpact>economicimpact6</EconomicImpact>
     <ExternalResources>
-      <ImageURL>http://www.image6.com</ImageURL>
+      <ImageURL>http://66.com</ImageURL>
+      <VideoURL>http://www.666.com</VideoURL>
+      <MapURL>https://www.666666.org</MapURL>
     </ExternalResources>
     <RelatedPersons>
       <RelatedPerson personIdent = "p6" />
@@ -1463,26 +1513,28 @@ Test6
   </Crisis>
 
   <Organization organizationIdent="o6">
-    <Name>Org6</Name>
-    <Kind organizationKindIdent="ok6">hey6</Kind>
+    <Name>name6</Name>
+    <Kind organizationKindIdent="ok6"/>
     <Location>
-      <Locality>city</Locality>
-      <Region>state</Region>
-      <Country>country</Country>
+      <Locality>locality6</Locality>
+      <Region>region6</Region>
+      <Country>country6</Country>
     </Location>
-    <History>fumble</History>
+    <History>history6</History>
     <ContactInfo>
-      <Telephone>618 789 6609</Telephone>
+      <Telephone/>
+      <Fax/>
+      <Email/>
       <PostalAddress>
-        <StreetAddress>My6</StreetAddress>
-        <Locality>car6</Locality>
-        <Region>is6</Region>
-        <PostalCode>555556</PostalCode>
-        <Country>blue6</Country>
+        <StreetAddress/>
+        <Locality>locality6</Locality>
+        <Region>region6</Region>
+        <PostalCode>66666</PostalCode>
+        <Country>country6</Country>
       </PostalAddress>
     </ContactInfo>
     <ExternalResources>
-      <ImageURL>http://www.blue6.org/</ImageURL>
+      <ImageURL>https://66.6666.edu</ImageURL>
     </ExternalResources>
     <RelatedCrises>
       <RelatedCrisis crisisIdent="c6"></RelatedCrisis>
@@ -1491,21 +1543,23 @@ Test6
       <RelatedPerson personIdent="p6"></RelatedPerson>
     </RelatedPersons>
   </Organization>
+ 
 
   <Person personIdent="p6">
     <Name>
-      <FirstName>Jack6</FirstName>
-      <MiddleName>Bean6</MiddleName>
-      <LastName>Stalk6</LastName>
+      <FirstName>firstname6</FirstName>
+      <MiddleName>middlename6</MiddleName>
+      <LastName>lastname6</LastName>
     </Name>
-    <Kind personKindIdent="pk6">bye6</Kind>
+    <Kind personKindIdent="pk6"/>
     <Location>
-      <Locality>loc6</Locality>
-      <Region>reg6</Region>
-      <Country>count6</Country>
+      <Locality>locality6</Locality>
+      <Region>region6</Region>
+      <Country>unitedstates6</Country>
     </Location>
     <ExternalResources>
-      <ImageURL>https://www.hw6.com</ImageURL>
+      <ImageURL>http://66.666.org/66/666/6/66/6/6666/66.jpg</ImageURL>
+      <VideoURL>http://6.com</VideoURL>
     </ExternalResources>
     <RelatedCrises>
       <RelatedCrisis crisisIdent="c6"></RelatedCrisis>
@@ -1515,26 +1569,22 @@ Test6
     </RelatedOrganizations>
   </Person>
 
-
-
-
   <CrisisKind crisisKindIdent = "ck6">
-    <Name>crisis kind 6</Name>
-    <Description>crisis kind for accept 6</Description>
+    <Name>crisis name 6</Name>
+    <Description>crisiskindIdent for acceptance test 6</Description>
   </CrisisKind>
 
   <OrganizationKind organizationKindIdent="ok6">
-    <Name>org kind 6</Name>
-    <Description>org kind for accept 6</Description>
+    <Name>organization name 6</Name>
+    <Description>organizationkindIdent for acceptance test 6</Description>
   </OrganizationKind>
 
-  <PersonKind personKindIdent="pk6">
-    <Name>person kind 6</Name>
-    <Description>person kind for accept 6</Description>
-  </PersonKind>
+<PersonKind personKindIdent="pk6">
+    <Name>person name 6</Name>
+    <Description>personkindIdent for acceptance test 6</Description>
+</PersonKind>
 
 </WorldCrises>
-
 
 
 
@@ -1554,15 +1604,17 @@ Test7
       <Country>country7</Country>
     </Location>
     <StartDateTime>
-      <Date>7017-17-17</Date>
+      <Date>7777-07-07</Date>
     </StartDateTime>
     <HumanImpact>
-      <Type> HelloWorld777 </Type>
-      <Number> 907777</Number>
+      <Type>type7</Type>
+      <Number>7777777777</Number>
     </HumanImpact>
-    <EconomicImpact> 777777777777jyhgfhdfghf7777 </EconomicImpact>
+    <EconomicImpact>economicimpact7</EconomicImpact>
     <ExternalResources>
-      <ImageURL>http://www.helloworld777.com</ImageURL>
+      <ImageURL>http://77.com</ImageURL>
+      <VideoURL>http://www.777.com</VideoURL>
+      <MapURL>https://www.777777.org</MapURL>
     </ExternalResources>
     <RelatedPersons>
       <RelatedPerson personIdent = "p7" />
@@ -1573,26 +1625,28 @@ Test7
   </Crisis>
 
   <Organization organizationIdent="o7">
-    <Name>Org7</Name>
-    <Kind organizationKindIdent="ok7">hey</Kind>
+    <Name>name7</Name>
+    <Kind organizationKindIdent="ok7"/>
     <Location>
-      <Locality>cit77y</Locality>
-      <Region>stat77e</Region>
-      <Country>coun7try</Country>
+      <Locality>locality7</Locality>
+      <Region>region7</Region>
+      <Country>country7</Country>
     </Location>
-    <History>this hist777ory is crazy</History>
+    <History>history7</History>
     <ContactInfo>
-      <Telephone>1 734 777 8910</Telephone>
+      <Telephone/>
+      <Fax/>
+      <Email/>
       <PostalAddress>
-        <StreetAddress>hel77lo</StreetAddress>
-        <Locality>th7is</Locality>
-        <Region>i7s</Region>
-        <PostalCode>55555</PostalCode>
-        <Country>whereili7ve</Country>
+        <StreetAddress/>
+        <Locality>locality7</Locality>
+        <Region>region7</Region>
+        <PostalCode>77777</PostalCode>
+        <Country>country7</Country>
       </PostalAddress>
     </ContactInfo>
     <ExternalResources>
-      <ImageURL>http://www.hel7lo.org/boo</ImageURL>
+      <ImageURL>https://77.7777.edu</ImageURL>
     </ExternalResources>
     <RelatedCrises>
       <RelatedCrisis crisisIdent="c7"></RelatedCrisis>
@@ -1601,21 +1655,23 @@ Test7
       <RelatedPerson personIdent="p7"></RelatedPerson>
     </RelatedPersons>
   </Organization>
+ 
 
   <Person personIdent="p7">
     <Name>
-      <FirstName>fn7ame</FirstName>
-      <MiddleName>m7name</MiddleName>
-      <LastName>lna7me</LastName>
+      <FirstName>firstname7</FirstName>
+      <MiddleName>middlename7</MiddleName>
+      <LastName>lastname7</LastName>
     </Name>
-    <Kind personKindIdent="pk7">h7i</Kind>
+    <Kind personKindIdent="pk7"/>
     <Location>
-      <Locality>l7oc</Locality>
-      <Region>r7eg</Region>
-      <Country>cou7nt</Country>
+      <Locality>locality7</Locality>
+      <Region>region7</Region>
+      <Country>unitedstates7</Country>
     </Location>
     <ExternalResources>
-      <ImageURL>https://www.tes7t.com</ImageURL>
+      <ImageURL>http://77.777.org/77/777/7/77/7/7777/77.jpg</ImageURL>
+      <VideoURL>http://7.com</VideoURL>
     </ExternalResources>
     <RelatedCrises>
       <RelatedCrisis crisisIdent="c7"></RelatedCrisis>
@@ -1625,26 +1681,22 @@ Test7
     </RelatedOrganizations>
   </Person>
 
-
-
-
   <CrisisKind crisisKindIdent = "ck7">
-    <Name>crisis kind 7</Name>
-    <Description>crisis kind for accept 7</Description>
+    <Name>crisis name 7</Name>
+    <Description>crisiskindIdent for acceptance test 7</Description>
   </CrisisKind>
 
   <OrganizationKind organizationKindIdent="ok7">
-    <Name>org kind 7</Name>
-    <Description>org kind for accept 7</Description>
+    <Name>organization name 7</Name>
+    <Description>organizationkindIdent for acceptance test 7</Description>
   </OrganizationKind>
 
-  <PersonKind personKindIdent="pk7">
-    <Name>person kind 7</Name>
-    <Description>person kind for accept 7</Description>
-  </PersonKind>
+<PersonKind personKindIdent="pk7">
+    <Name>person name 7</Name>
+    <Description>personkindIdent for acceptance test 7</Description>
+</PersonKind>
 
 </WorldCrises>
-
 
 
 
@@ -1664,15 +1716,17 @@ Test8
       <Country>country8</Country>
     </Location>
     <StartDateTime>
-      <Date>8018-18-18</Date>
+      <Date>8888-08-08</Date>
     </StartDateTime>
     <HumanImpact>
-      <Type> HelloW888orld </Type>
-      <Number> 988880 </Number>
+      <Type>type8</Type>
+      <Number>8888888888</Number>
     </HumanImpact>
-    <EconomicImpact> Th88888is was super crazy. </EconomicImpact>
+    <EconomicImpact>economicimpact8</EconomicImpact>
     <ExternalResources>
-      <ImageURL>http://www.he88lloworld.com</ImageURL>
+      <ImageURL>http://88.com</ImageURL>
+      <VideoURL>http://www.888.com</VideoURL>
+      <MapURL>https://www.888888.org</MapURL>
     </ExternalResources>
     <RelatedPersons>
       <RelatedPerson personIdent = "p8" />
@@ -1683,26 +1737,28 @@ Test8
   </Crisis>
 
   <Organization organizationIdent="o8">
-    <Name>Org8</Name>
-    <Kind organizationKindIdent="ok8">he888y</Kind>
+    <Name>name8</Name>
+    <Kind organizationKindIdent="ok8"/>
     <Location>
-      <Locality>c8ity</Locality>
-      <Region>st8ate</Region>
-      <Country>c8ountry</Country>
+      <Locality>locality8</Locality>
+      <Region>region8</Region>
+      <Country>country8</Country>
     </Location>
-    <History>this histor88y is crazy</History>
+    <History>history8</History>
     <ContactInfo>
-      <Telephone>1 834 888 8910</Telephone>
+      <Telephone/>
+      <Fax/>
+      <Email/>
       <PostalAddress>
-        <StreetAddress>hel8lo</StreetAddress>
-        <Locality>thi8s</Locality>
-        <Region>i8s</Region>
+        <StreetAddress/>
+        <Locality>locality8</Locality>
+        <Region>region8</Region>
         <PostalCode>88888</PostalCode>
-        <Country>where8ilive</Country>
+        <Country>country8</Country>
       </PostalAddress>
     </ContactInfo>
     <ExternalResources>
-      <ImageURL>http://www.h88ello.org/boo</ImageURL>
+      <ImageURL>https://88.8888.edu</ImageURL>
     </ExternalResources>
     <RelatedCrises>
       <RelatedCrisis crisisIdent="c8"></RelatedCrisis>
@@ -1711,21 +1767,23 @@ Test8
       <RelatedPerson personIdent="p8"></RelatedPerson>
     </RelatedPersons>
   </Organization>
+ 
 
   <Person personIdent="p8">
     <Name>
-      <FirstName>fna88me</FirstName>
-      <MiddleName>mn88ame</MiddleName>
-      <LastName>lnam88888e</LastName>
+      <FirstName>firstname8</FirstName>
+      <MiddleName>middlename8</MiddleName>
+      <LastName>lastname8</LastName>
     </Name>
-    <Kind personKindIdent="pk8">hi</Kind>
+    <Kind personKindIdent="pk8"/>
     <Location>
-      <Locality>l888oc</Locality>
-      <Region>re888g</Region>
-      <Country>co888unt</Country>
+      <Locality>locality8</Locality>
+      <Region>region8</Region>
+      <Country>unitedstates8</Country>
     </Location>
     <ExternalResources>
-      <ImageURL>https://www.te8st.com</ImageURL>
+      <ImageURL>http://88.888.org/88/888/8/88/8/8888/88.jpg</ImageURL>
+      <VideoURL>http://8.com</VideoURL>
     </ExternalResources>
     <RelatedCrises>
       <RelatedCrisis crisisIdent="c8"></RelatedCrisis>
@@ -1735,26 +1793,22 @@ Test8
     </RelatedOrganizations>
   </Person>
 
-
-
-
   <CrisisKind crisisKindIdent = "ck8">
-    <Name>crisis kind 8</Name>
-    <Description>crisis kind for accept 8</Description>
+    <Name>crisis name 8</Name>
+    <Description>crisiskindIdent for acceptance test 8</Description>
   </CrisisKind>
 
   <OrganizationKind organizationKindIdent="ok8">
-    <Name>org kind 8</Name>
-    <Description>org kind for accept 8</Description>
+    <Name>organization name 8</Name>
+    <Description>organizationkindIdent for acceptance test 8</Description>
   </OrganizationKind>
 
-  <PersonKind personKindIdent="pk8">
-    <Name>person kind 8</Name>
-    <Description>person kind for accept 8</Description>
-  </PersonKind>
+<PersonKind personKindIdent="pk8">
+    <Name>person name 8</Name>
+    <Description>personkindIdent for acceptance test 8</Description>
+</PersonKind>
 
 </WorldCrises>
-
 
 
 
@@ -1774,15 +1828,17 @@ Test9
       <Country>country9</Country>
     </Location>
     <StartDateTime>
-      <Date>9014-11-09</Date>
+      <Date>9999-09-09</Date>
     </StartDateTime>
     <HumanImpact>
-      <Type> football </Type>
-      <Number> 80 </Number>
+      <Type>type9</Type>
+      <Number>9999999999</Number>
     </HumanImpact>
-    <EconomicImpact> EC9 </EconomicImpact>
+    <EconomicImpact>economicimpact9</EconomicImpact>
     <ExternalResources>
-      <ImageURL>http://www.image9.com</ImageURL>
+      <ImageURL>http://99.com</ImageURL>
+      <VideoURL>http://www.999.com</VideoURL>
+      <MapURL>https://www.999999.org</MapURL>
     </ExternalResources>
     <RelatedPersons>
       <RelatedPerson personIdent = "p9" />
@@ -1793,26 +1849,28 @@ Test9
   </Crisis>
 
   <Organization organizationIdent="o9">
-    <Name>Org9</Name>
-    <Kind organizationKindIdent="ok9">hey9</Kind>
+    <Name>name9</Name>
+    <Kind organizationKindIdent="ok9"/>
     <Location>
-      <Locality>city</Locality>
-      <Region>state</Region>
-      <Country>country</Country>
+      <Locality>locality9</Locality>
+      <Region>region9</Region>
+      <Country>country9</Country>
     </Location>
-    <History>fumble</History>
+    <History>history9</History>
     <ContactInfo>
-      <Telephone>918 789 9909</Telephone>
+      <Telephone/>
+      <Fax/>
+      <Email/>
       <PostalAddress>
-        <StreetAddress>My9</StreetAddress>
-        <Locality>car9</Locality>
-        <Region>is9</Region>
-        <PostalCode>555559</PostalCode>
-        <Country>blue9</Country>
+        <StreetAddress/>
+        <Locality>locality9</Locality>
+        <Region>region9</Region>
+        <PostalCode>99999</PostalCode>
+        <Country>country9</Country>
       </PostalAddress>
     </ContactInfo>
     <ExternalResources>
-      <ImageURL>http://www.blue9.org/</ImageURL>
+      <ImageURL>https://99.9999.edu</ImageURL>
     </ExternalResources>
     <RelatedCrises>
       <RelatedCrisis crisisIdent="c9"></RelatedCrisis>
@@ -1821,21 +1879,23 @@ Test9
       <RelatedPerson personIdent="p9"></RelatedPerson>
     </RelatedPersons>
   </Organization>
+ 
 
   <Person personIdent="p9">
     <Name>
-      <FirstName>Jack9</FirstName>
-      <MiddleName>Bean9</MiddleName>
-      <LastName>Stalk9</LastName>
+      <FirstName>firstname9</FirstName>
+      <MiddleName>middlename9</MiddleName>
+      <LastName>lastname9</LastName>
     </Name>
-    <Kind personKindIdent="pk9">bye9</Kind>
+    <Kind personKindIdent="pk9"/>
     <Location>
-      <Locality>loc9</Locality>
-      <Region>reg9</Region>
-      <Country>count9</Country>
+      <Locality>locality9</Locality>
+      <Region>region9</Region>
+      <Country>unitedstates9</Country>
     </Location>
     <ExternalResources>
-      <ImageURL>https://www.hw9.com</ImageURL>
+      <ImageURL>http://99.999.org/99/999/9/99/9/9999/99.jpg</ImageURL>
+      <VideoURL>http://9.com</VideoURL>
     </ExternalResources>
     <RelatedCrises>
       <RelatedCrisis crisisIdent="c9"></RelatedCrisis>
@@ -1845,26 +1905,22 @@ Test9
     </RelatedOrganizations>
   </Person>
 
-
-
-
   <CrisisKind crisisKindIdent = "ck9">
-    <Name>crisis kind 9</Name>
-    <Description>crisis kind for accept 9</Description>
+    <Name>crisis name 9</Name>
+    <Description>crisiskindIdent for acceptance test 9</Description>
   </CrisisKind>
 
   <OrganizationKind organizationKindIdent="ok9">
-    <Name>org kind 9</Name>
-    <Description>org kind for accept 9</Description>
+    <Name>organization name 9</Name>
+    <Description>organizationkindIdent for acceptance test 9</Description>
   </OrganizationKind>
 
-  <PersonKind personKindIdent="pk9">
-    <Name>person kind 9</Name>
-    <Description>person kind for accept 9</Description>
-  </PersonKind>
+<PersonKind personKindIdent="pk9">
+    <Name>person name 9</Name>
+    <Description>personkindIdent for acceptance test 9</Description>
+</PersonKind>
 
 </WorldCrises>
-
 
 
 
@@ -1875,108 +1931,108 @@ Test10
 <?xml version = "1.0" ?>
 
 <WorldCrises>
-  <Crisis crisisIdent = "c10">
-    <Name>name10</Name>
-    <Kind crisisKindIdent = "ck10" />
+  <Crisis crisisIdent = "c1">
+    <Name>name1</Name>
+    <Kind crisisKindIdent = "ck1" />
     <Location>
-      <Locality>locality10</Locality>
-      <Region>region10</Region>
-      <Country>country10</Country>
+      <Locality>locality1</Locality>
+      <Region>region1</Region>
+      <Country>country1</Country>
     </Location>
     <StartDateTime>
-      <Date>2000-11-11</Date>
+      <Date>1111-01-01</Date>
     </StartDateTime>
     <HumanImpact>
-      <Type> Hello1111World </Type>
-      <Number> 9111110 </Number>
+      <Type>type1</Type>
+      <Number>1111111111</Number>
     </HumanImpact>
-    <EconomicImpact> Th111111is was super crazy. </EconomicImpact>
+    <EconomicImpact>economicimpact1</EconomicImpact>
     <ExternalResources>
-      <ImageURL>http://www.hel111loworld.com</ImageURL>
+      <ImageURL>http://11.com</ImageURL>
+      <VideoURL>http://www.111.com</VideoURL>
+      <MapURL>https://www.111111.org</MapURL>
     </ExternalResources>
     <RelatedPersons>
-      <RelatedPerson personIdent = "p10" />
+      <RelatedPerson personIdent = "p1" />
     </RelatedPersons>
     <RelatedOrganizations>
-      <RelatedOrganization organizationIdent = "o10" />
+      <RelatedOrganization organizationIdent = "o1" />
     </RelatedOrganizations>
   </Crisis>
 
-  <Organization organizationIdent="o10">
-    <Name>Or1111g10</Name>
-    <Kind organizationKindIdent="ok10">h1111ey</Kind>
+  <Organization organizationIdent="o1">
+    <Name>name1</Name>
+    <Kind organizationKindIdent="ok1"/>
     <Location>
-      <Locality>ci1111ty</Locality>
-      <Region>sta111te</Region>
-      <Country>co1111untry</Country>
+      <Locality>locality1</Locality>
+      <Region>region1</Region>
+      <Country>country1</Country>
     </Location>
-    <History>this hist11111ory is crazy</History>
+    <History>history1</History>
     <ContactInfo>
-      <Telephone>1 134 567 1110</Telephone>
+      <Telephone/>
+      <Fax/>
+      <Email/>
       <PostalAddress>
-        <StreetAddress>he11llo</StreetAddress>
-        <Locality>thi11s</Locality>
-        <Region>i1s</Region>
+        <StreetAddress/>
+        <Locality>locality1</Locality>
+        <Region>region1</Region>
         <PostalCode>11111</PostalCode>
-        <Country>wher111eilive</Country>
+        <Country>country1</Country>
       </PostalAddress>
     </ContactInfo>
     <ExternalResources>
-      <ImageURL>http://www.he11llo.org/boo</ImageURL>
+      <ImageURL>https://11.1111.edu</ImageURL>
     </ExternalResources>
     <RelatedCrises>
-      <RelatedCrisis crisisIdent="c10"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="c1"></RelatedCrisis>
     </RelatedCrises>
     <RelatedPersons>
-      <RelatedPerson personIdent="p10"></RelatedPerson>
+      <RelatedPerson personIdent="p1"></RelatedPerson>
     </RelatedPersons>
   </Organization>
+ 
 
-  <Person personIdent="p10">
+  <Person personIdent="p1">
     <Name>
-      <FirstName>f11name</FirstName>
-      <MiddleName>m1name</MiddleName>
-      <LastName>lnam1e</LastName>
+      <FirstName>firstname1</FirstName>
+      <MiddleName>middlename1</MiddleName>
+      <LastName>lastname1</LastName>
     </Name>
-    <Kind personKindIdent="pk10">hi</Kind>
+    <Kind personKindIdent="pk1"/>
     <Location>
-      <Locality>l1oc</Locality>
-      <Region>r1eg</Region>
-      <Country>co1unt</Country>
+      <Locality>locality1</Locality>
+      <Region>region1</Region>
+      <Country>unitedstates1</Country>
     </Location>
     <ExternalResources>
-      <ImageURL>https://www.te1st.com</ImageURL>
+      <ImageURL>http://11.111.org/11/111/1/11/1/1111/11.jpg</ImageURL>
+      <VideoURL>http://1.com</VideoURL>
     </ExternalResources>
     <RelatedCrises>
-      <RelatedCrisis crisisIdent="c10"></RelatedCrisis>
+      <RelatedCrisis crisisIdent="c1"></RelatedCrisis>
     </RelatedCrises>
     <RelatedOrganizations>
-      <RelatedOrganization organizationIdent="o10"></RelatedOrganization>
+      <RelatedOrganization organizationIdent="o1"></RelatedOrganization>
     </RelatedOrganizations>
   </Person>
 
-
-
-
-  <CrisisKind crisisKindIdent = "ck10">
-    <Name>crisis kind 10</Name>
-    <Description>crisis kind for accept 10</Description>
+  <CrisisKind crisisKindIdent = "ck1">
+    <Name>crisis name 1</Name>
+    <Description>crisiskindIdent for acceptance test 1</Description>
   </CrisisKind>
 
-  <OrganizationKind organizationKindIdent="ok10">
-    <Name>org kind 10</Name>
-    <Description>org kind for accept 10</Description>
+  <OrganizationKind organizationKindIdent="ok1">
+    <Name>organization name 1</Name>
+    <Description>organizationkindIdent for acceptance test 1</Description>
   </OrganizationKind>
 
-  <PersonKind personKindIdent="pk10">
-    <Name>person kind 10</Name>
-    <Description>person kind for accept 10</Description>
-  </PersonKind>
+<PersonKind personKindIdent="pk1">
+    <Name>person name 1</Name>
+    <Description>personkindIdent for acceptance test 1</Description>
+</PersonKind>
 
 </WorldCrises>
-
-
-
 
 
 
