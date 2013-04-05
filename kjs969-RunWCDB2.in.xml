@@ -1,0 +1,850 @@
+<WorldCrises>
+  <Crisis crisisIdent="YF1988">
+    <Name>Yellowstone Forest Fires of 1988</Name>
+    <Kind crisisKindIdent="Wildfire"/>
+    <Location>
+      <Locality>Yellowstone National Park</Locality>
+      <Region>Wyoming</Region>
+      <Country>United States of America</Country>
+    </Location>
+    <StartDateTime>
+      <Date>1988-06-23</Date>
+    </StartDateTime>
+    <EndDateTime>
+      <Date>1988-11-18</Date>
+    </EndDateTime>
+    <HumanImpact>
+      <Type/>
+      <Number/>
+    </HumanImpact>
+    <EconomicImpact/>
+    <ResourceNeeded/>
+    <WaysToHelp/>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedPersons/>
+    <RelatedOrganizations/>
+  </Crisis>
+  <Organization organizationIdent="WNG">
+    <Name>Wyoming National Guard</Name>
+    <Kind organizationKindIdent="Government"/>
+    <Location>
+      <Locality>Washington D.C.</Locality>
+      <Region/>
+      <Country>United States of America</Country>
+    </Location>
+    <History>Founded 1870-04-04.</History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>Washington D.C.</Locality>
+        <Region/>
+        <PostalCode/>
+        <Country>United States of America</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedCrises/>
+    <RelatedPersons/>
+  </Organization>
+  <Person personIdent="RJoseph">
+    <Name>
+      <FirstName>Raymond</FirstName>
+      <MiddleName/>
+      <LastName>Joseph</LastName>
+      <Suffix/>
+    </Name>
+    <Kind personKindIdent="Official"/>
+    <Location>
+      <Locality>Les Cayes</Locality>
+      <Region/>
+      <Country>Haiti</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedCrises/>
+    <RelatedOrganizations/>
+  </Person>
+  <CrisisKind crisisKindIdent="Wildfire">
+    <Name>Wildfire</Name>
+    <Description/>
+  </CrisisKind>
+  <OrganizationKind organizationKindIdent="Government">
+    <Name>Government</Name>
+    <Description/>
+  </OrganizationKind>
+  <PersonKind personKindIdent="Official">
+    <Name>Official</Name>
+    <Description/>
+  </PersonKind>
+</WorldCrises>
+
+<WorldCrises>
+  <Crisis crisisIdent="GF1993">
+    <Name>Great Flood of 1993</Name>
+    <Kind crisisKindIdent="Flood"/>
+    <Location>
+      <Locality/>
+      <Region>Mississippi, Louisiana, Iowa, Kansas, Minnesota, Missouri, Nebraska</Region>
+      <Country>United States of America</Country>
+    </Location>
+    <StartDateTime>
+      <Date>1993-04-01</Date>
+    </StartDateTime>
+    <EndDateTime>
+      <Date>1993-10-01</Date>
+    </EndDateTime>
+    <HumanImpact>
+      <Type>Casualties</Type>
+      <Number> 50</Number>
+    </HumanImpact>
+    <EconomicImpact>Damages: $15-20 billion</EconomicImpact>
+    <ResourceNeeded>Sandbags; Army Corps of Engineers; Army National Guard; American Red Cross</ResourceNeeded>
+    <WaysToHelp>Donation to American Red Cross</WaysToHelp>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedPersons/>
+    <RelatedOrganizations/>
+  </Crisis>
+  <Organization organizationIdent="NOAA">
+    <Name>National Oceanic and Atmospheric Administration</Name>
+    <Kind organizationKindIdent="Government"/>
+    <Location>
+      <Locality>Washington D.C.</Locality>
+      <Region/>
+      <Country>United States of America</Country>
+    </Location>
+    <History/>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>Washington D.C.</Locality>
+        <Region/>
+        <PostalCode/>
+        <Country>United States of America</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedCrises/>
+    <RelatedPersons/>
+  </Organization>
+  <Person personIdent="RJoseph">
+    <Name>
+      <FirstName>Raymond</FirstName>
+      <MiddleName/>
+      <LastName>Joseph</LastName>
+      <Suffix/>
+    </Name>
+    <Kind personKindIdent="Official"/>
+    <Location>
+      <Locality/>
+      <Region/>
+      <Country/>
+    </Location>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedCrises/>
+    <RelatedOrganizations/>
+  </Person>
+  <CrisisKind crisisKindIdent="Flood">
+    <Name>Flood</Name>
+    <Description/>
+  </CrisisKind>
+  <OrganizationKind organizationKindIdent="Government">
+    <Name>Government</Name>
+    <Description/>
+  </OrganizationKind>
+  <PersonKind personKindIdent="Official">
+    <Name>Official</Name>
+    <Description/>
+  </PersonKind>
+</WorldCrises>
+
+<WorldCrises>
+  <Crisis crisisIdent="GS1987">
+    <Name>Great Storm of 1987</Name>
+    <Kind crisisKindIdent="Storm"/>
+    <Location>
+      <Locality>Cornwall (UK)</Locality>
+      <Region/>
+      <Country>England</Country>
+    </Location>
+    <HumanImpact>
+      <Type/>
+      <Number/>
+    </HumanImpact>
+    <EconomicImpact/>
+    <ResourceNeeded/>
+    <WaysToHelp/>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedPersons/>
+    <RelatedOrganizations/>
+  </Crisis>
+  <Organization organizationIdent="FCGB">
+    <Name>Forestry Commission Great Britain</Name>
+    <Kind organizationKindIdent="Government"/>
+    <Location>
+      <Locality/>
+      <Region/>
+      <Country>England</Country>
+    </Location>
+    <History/>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality/>
+        <Region/>
+        <PostalCode/>
+        <Country>England</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedCrises/>
+    <RelatedPersons/>
+  </Organization>
+  <Person personIdent="RJoseph">
+    <Name>
+      <FirstName>Raymond</FirstName>
+      <MiddleName/>
+      <LastName>Joseph</LastName>
+      <Suffix/>
+    </Name>
+    <Kind personKindIdent="Official"/>
+    <Location>
+      <Locality/>
+      <Region/>
+      <Country/>
+    </Location>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedCrises/>
+    <RelatedOrganizations/>
+  </Person>
+  <CrisisKind crisisKindIdent="Storm">
+    <Name>Storm</Name>
+    <Description/>
+  </CrisisKind>
+  <OrganizationKind organizationKindIdent="Government">
+    <Name>Government</Name>
+    <Description/>
+  </OrganizationKind>
+  <PersonKind personKindIdent="Official">
+    <Name>Official</Name>
+    <Description/>
+  </PersonKind>
+</WorldCrises>
+
+<WorldCrises>
+  <Crisis crisisIdent="BC1991">
+    <Name>Bangladesh Cyclone</Name>
+    <Kind crisisKindIdent="Cyclone"/>
+    <Location>
+      <Locality>Chittagong</Locality>
+      <Region/>
+      <Country>Bangladesh</Country>
+    </Location>
+    <HumanImpact>
+      <Type/>
+      <Number/>
+    </HumanImpact>
+    <EconomicImpact/>
+    <ResourceNeeded/>
+    <WaysToHelp/>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedPersons/>
+    <RelatedOrganizations/>
+  </Crisis>
+  <Organization organizationIdent="ARC">
+    <Name>American Red Cross</Name>
+    <Kind organizationKindIdent="Social"/>
+    <Location>
+      <Locality>Washington D.C.</Locality>
+      <Region/>
+      <Country>United States of America</Country>
+    </Location>
+    <History>Founded 1881-05-21</History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>Washington D.C.</Locality>
+        <Region/>
+        <PostalCode/>
+        <Country>United States of America</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedCrises/>
+    <RelatedPersons/>
+  </Organization>
+  <Person personIdent="GWBush">
+    <Name>
+      <FirstName>George</FirstName>
+      <MiddleName>Walker</MiddleName>
+      <LastName>Bush</LastName>
+      <Suffix/>
+    </Name>
+    <Kind personKindIdent="Leader"/>
+    <Location>
+      <Locality/>
+      <Region/>
+      <Country/>
+    </Location>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedCrises/>
+    <RelatedOrganizations/>
+  </Person>
+  <CrisisKind crisisKindIdent="Cyclone">
+    <Name>Cyclone</Name>
+    <Description/>
+  </CrisisKind>
+  <OrganizationKind organizationKindIdent="Social">
+    <Name>Social</Name>
+    <Description/>
+  </OrganizationKind>
+  <PersonKind personKindIdent="Leader">
+    <Name>Leader</Name>
+    <Description/>
+  </PersonKind>
+</WorldCrises>
+
+<WorldCrises>
+  <Crisis crisisIdent="HE2010">
+    <Name>Haiti Earthquake</Name>
+    <Kind crisisKindIdent="Earthquake"/>
+    <Location>
+      <Locality>Port-au-Prince</Locality>
+      <Region/>
+      <Country>Haiti</Country>
+    </Location>
+    <HumanImpact>
+      <Type/>
+      <Number/>
+    </HumanImpact>
+    <EconomicImpact/>
+    <ResourceNeeded/>
+    <WaysToHelp/>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedPersons/>
+    <RelatedOrganizations/>
+  </Crisis>
+  <Organization organizationIdent="HF">
+    <Name>Humanity First</Name>
+    <Kind organizationKindIdent="Social"/>
+    <Location>
+      <Locality>London</Locality>
+      <Region/>
+      <Country>England</Country>
+    </Location>
+    <History/>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>London</Locality>
+        <Region/>
+        <PostalCode/>
+        <Country>England</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedCrises/>
+    <RelatedPersons/>
+  </Organization>
+  <Person personIdent="BGiles">
+    <Name>
+      <FirstName>Bill</FirstName>
+      <MiddleName/>
+      <LastName>Giles</LastName>
+      <Suffix/>
+    </Name>
+    <Kind personKindIdent="Personality"/>
+    <Location>
+      <Locality/>
+      <Region/>
+      <Country/>
+    </Location>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedCrises/>
+    <RelatedOrganizations/>
+  </Person>
+  <CrisisKind crisisKindIdent="Earthquake">
+    <Name>Earthquake</Name>
+    <Description/>
+  </CrisisKind>
+  <OrganizationKind organizationKindIdent="Social">
+    <Name>Social</Name>
+    <Description/>
+  </OrganizationKind>
+  <PersonKind personKindIdent="Personality">
+    <Name>Personality</Name>
+    <Description/>
+  </PersonKind>
+</WorldCrises>
+
+<WorldCrises>
+  <Crisis crisisIdent="YF1988">
+    <Name>Yellowstone Forest Fires of 1988</Name>
+    <Kind crisisKindIdent="Wildfire"/>
+    <Location>
+      <Locality>Yellowstone National Park</Locality>
+      <Region>Wyoming</Region>
+      <Country>United States of America</Country>
+    </Location>
+    <StartDateTime>
+      <Date>1988-06-23</Date>
+    </StartDateTime>
+    <EndDateTime>
+      <Date>1988-11-18</Date>
+    </EndDateTime>
+    <HumanImpact>
+      <Type/>
+      <Number/>
+    </HumanImpact>
+    <EconomicImpact/>
+    <ResourceNeeded/>
+    <WaysToHelp/>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedPersons/>
+    <RelatedOrganizations/>
+  </Crisis>
+  <Organization organizationIdent="WNG">
+    <Name>Wyoming National Guard</Name>
+    <Kind organizationKindIdent="Government"/>
+    <Location>
+      <Locality>Washington D.C.</Locality>
+      <Region/>
+      <Country>United States of America</Country>
+    </Location>
+    <History>Founded 1870-04-04.</History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>Washington D.C.</Locality>
+        <Region/>
+        <PostalCode/>
+        <Country>United States of America</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedCrises/>
+    <RelatedPersons/>
+  </Organization>
+  <Person personIdent="GWBush">
+    <Name>
+      <FirstName>George</FirstName>
+      <MiddleName>Walker</MiddleName>
+      <LastName>Bush</LastName>
+      <Suffix/>
+    </Name>
+    <Kind personKindIdent="Leader"/>
+    <Location>
+      <Locality/>
+      <Region/>
+      <Country/>
+    </Location>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedCrises/>
+    <RelatedOrganizations/>
+  </Person>
+  <CrisisKind crisisKindIdent="Wildfire">
+    <Name>Wildfire</Name>
+    <Description/>
+  </CrisisKind>
+  <OrganizationKind organizationKindIdent="Government">
+    <Name>Government</Name>
+    <Description/>
+  </OrganizationKind>
+  <PersonKind personKindIdent="Leader">
+    <Name>Leader</Name>
+    <Description/>
+  </PersonKind>
+</WorldCrises>
+
+<WorldCrises>
+  <Crisis crisisIdent="GF1993">
+    <Name>Great Flood of 1993</Name>
+    <Kind crisisKindIdent="Flood"/>
+    <Location>
+      <Locality/>
+      <Region>Mississippi, Louisiana, Iowa, Kansas, Minnesota, Missouri, Nebraska</Region>
+      <Country>United States of America</Country>
+    </Location>
+    <StartDateTime>
+      <Date>1993-04-01</Date>
+    </StartDateTime>
+    <EndDateTime>
+      <Date>1993-10-01</Date>
+    </EndDateTime>
+    <HumanImpact>
+      <Type>Casualties</Type>
+      <Number> 50</Number>
+    </HumanImpact>
+    <EconomicImpact>Damages: $15-20 billion</EconomicImpact>
+    <ResourceNeeded>Sandbags; Army Corps of Engineers; Army National Guard; American Red Cross</ResourceNeeded>
+    <WaysToHelp>Donation to American Red Cross</WaysToHelp>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedPersons/>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="NOAA"/>
+    </RelatedOrganizations>
+  </Crisis>
+  <Organization organizationIdent="HF">
+    <Name>Humanity First</Name>
+    <Kind organizationKindIdent="Social"/>
+    <Location>
+      <Locality>London</Locality>
+      <Region/>
+      <Country>England</Country>
+    </Location>
+    <History/>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>London</Locality>
+        <Region/>
+        <PostalCode/>
+        <Country>England</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedCrises/>
+    <RelatedPersons/>
+  </Organization>
+  <Person personIdent="RJoseph">
+    <Name>
+      <FirstName>Raymond</FirstName>
+      <MiddleName/>
+      <LastName>Joseph</LastName>
+      <Suffix/>
+    </Name>
+    <Kind personKindIdent="Official"/>
+    <Location>
+      <Locality/>
+      <Region/>
+      <Country/>
+    </Location>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedCrises/>
+    <RelatedOrganizations/>
+  </Person>
+  <CrisisKind crisisKindIdent="Flood">
+    <Name>Flood</Name>
+    <Description/>
+  </CrisisKind>
+  <OrganizationKind organizationKindIdent="Social">
+    <Name>Social</Name>
+    <Description/>
+  </OrganizationKind>
+  <PersonKind personKindIdent="Official">
+    <Name>Official</Name>
+    <Description/>
+  </PersonKind>
+</WorldCrises>
+
+
+<WorldCrises>
+  <Crisis crisisIdent="GS1987">
+    <Name>Great Storm of 1987</Name>
+    <Kind crisisKindIdent="Storm"/>
+    <Location>
+      <Locality>Cornwall (UK)</Locality>
+      <Region/>
+      <Country>England</Country>
+    </Location>
+    <HumanImpact>
+      <Type/>
+      <Number/>
+    </HumanImpact>
+    <EconomicImpact/>
+    <ResourceNeeded/>
+    <WaysToHelp/>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedPersons/>
+    <RelatedOrganizations/>
+  </Crisis>
+  <Organization organizationIdent="FCGB">
+    <Name>Forestry Commission Great Britain</Name>
+    <Kind organizationKindIdent="Government"/>
+    <Location>
+      <Locality/>
+      <Region/>
+      <Country>England</Country>
+    </Location>
+    <History/>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality/>
+        <Region/>
+        <PostalCode/>
+        <Country>England</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedCrises/>
+    <RelatedPersons/>
+  </Organization>
+  <Person personIdent="BGiles">
+    <Name>
+      <FirstName>Bill</FirstName>
+      <MiddleName/>
+      <LastName>Giles</LastName>
+      <Suffix/>
+    </Name>
+    <Kind personKindIdent="Personality"/>
+    <Location>
+      <Locality/>
+      <Region/>
+      <Country/>
+    </Location>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedCrises/>
+    <RelatedOrganizations/>
+  </Person>
+  <CrisisKind crisisKindIdent="Storm">
+    <Name>Storm</Name>
+    <Description/>
+  </CrisisKind>
+  <OrganizationKind organizationKindIdent="Government">
+    <Name>Government</Name>
+    <Description/>
+  </OrganizationKind>
+  <PersonKind personKindIdent="Personality">
+    <Name>Personality</Name>
+    <Description/>
+  </PersonKind>
+</WorldCrises>
+
+
+<WorldCrises>
+  <Crisis crisisIdent="BC1991">
+    <Name>Bangladesh Cyclone</Name>
+    <Kind crisisKindIdent="Cyclone"/>
+    <Location>
+      <Locality>Chittagong</Locality>
+      <Region/>
+      <Country>Bangladesh</Country>
+    </Location>
+    <HumanImpact>
+      <Type/>
+      <Number/>
+    </HumanImpact>
+    <EconomicImpact/>
+    <ResourceNeeded/>
+    <WaysToHelp/>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedPersons/>
+    <RelatedOrganizations/>
+  </Crisis>
+  <Organization organizationIdent="FCGB">
+    <Name>Forestry Commission Great Britain</Name>
+    <Kind organizationKindIdent="Government"/>
+    <Location>
+      <Locality/>
+      <Region/>
+      <Country>England</Country>
+    </Location>
+    <History/>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality/>
+        <Region/>
+        <PostalCode/>
+        <Country>England</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedCrises/>
+    <RelatedPersons/>
+  </Organization>
+  <Person personIdent="GWBush">
+    <Name>
+      <FirstName>George</FirstName>
+      <MiddleName>Walker</MiddleName>
+      <LastName>Bush</LastName>
+      <Suffix/>
+    </Name>
+    <Kind personKindIdent="Leader"/>
+    <Location>
+      <Locality/>
+      <Region/>
+      <Country/>
+    </Location>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedCrises/>
+    <RelatedOrganizations/>
+  </Person>
+  <CrisisKind crisisKindIdent="Cyclone">
+    <Name>Cyclone</Name>
+    <Description/>
+  </CrisisKind>
+  <OrganizationKind organizationKindIdent="Government">
+    <Name>Government</Name>
+    <Description/>
+  </OrganizationKind>
+  <PersonKind personKindIdent="Leader">
+    <Name>Leader</Name>
+    <Description/>
+  </PersonKind>
+</WorldCrises>
+
+
+<WorldCrises>
+  <Crisis crisisIdent="HE2010">
+    <Name>Haiti Earthquake</Name>
+    <Kind crisisKindIdent="Earthquake"/>
+    <Location>
+      <Locality>Port-au-Prince</Locality>
+      <Region/>
+      <Country>Haiti</Country>
+    </Location>
+    <HumanImpact>
+      <Type/>
+      <Number/>
+    </HumanImpact>
+    <EconomicImpact/>
+    <ResourceNeeded/>
+    <WaysToHelp/>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedPersons/>
+    <RelatedOrganizations/>
+  </Crisis>
+  <Organization organizationIdent="WNG">
+    <Name>Wyoming National Guard</Name>
+    <Kind organizationKindIdent="Government"/>
+    <Location>
+      <Locality>Washington D.C.</Locality>
+      <Region/>
+      <Country>United States of America</Country>
+    </Location>
+    <History>Founded 1870-04-04.</History>
+    <ContactInfo>
+      <Telephone/>
+      <Fax/>
+      <Email/>
+      <PostalAddress>
+        <StreetAddress/>
+        <Locality>Washington D.C.</Locality>
+        <Region/>
+        <PostalCode/>
+        <Country>United States of America</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedCrises/>
+    <RelatedPersons/>
+  </Organization>
+  <Person personIdent="BGiles">
+    <Name>
+      <FirstName>Bill</FirstName>
+      <MiddleName/>
+      <LastName>Giles</LastName>
+      <Suffix/>
+    </Name>
+    <Kind personKindIdent="Personality"/>
+    <Location>
+      <Locality/>
+      <Region/>
+      <Country/>
+    </Location>
+    <ExternalResources>
+      <ImageURL/>
+    </ExternalResources>
+    <RelatedCrises/>
+    <RelatedOrganizations/>
+  </Person>
+  <CrisisKind crisisKindIdent="Earthquake">
+    <Name>Earthquake</Name>
+    <Description/>
+  </CrisisKind>
+  <OrganizationKind organizationKindIdent="Government">
+    <Name>Government</Name>
+    <Description/>
+  </OrganizationKind>
+  <PersonKind personKindIdent="Personality">
+    <Name>Personality</Name>
+    <Description/>
+  </PersonKind>
+</WorldCrises>
+
+
