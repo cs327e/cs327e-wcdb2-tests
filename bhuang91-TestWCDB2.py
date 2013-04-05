@@ -1,3 +1,17 @@
+#!/usr/bin/env python
+
+# ---------------------------
+# projects/WCDB2/TestWCDB2.py
+# Copyright (C) 2013
+# Team Virus
+# ---------------------------
+
+"""
+To test the program:
+    % python TestWCDB2.py >& TestWCDB2.out
+    % chmod ugo+x TestWCDB2.py
+    % TestWCDB2.py >& TestWCDB2.out
+"""
 
 
 # -------
@@ -35,27 +49,7 @@ class TestWCDB (unittest.TestCase) :
         catagoryDict ={'Name': [{'crisisIdent': "'GJD12'", 'Name': "'Bombing'"}]} 
         cat = "Crisis"
         returnValue = insertSQL(table,catagoryDict,cat)
-        self.assert_(returnValue == "drop table if exists criName;\nCREATE TABLE criName(crisisIdent text,Name text);\ninsert into criName (crisisIdent, Name) values ('GJD12', 'Bombing');\n")
-
-
-
-    def test_main_1 (self) :
-        r = StringIO.StringIO("<first>\n<second>\n</second>\n</first>")
-        w = StringIO.StringIO()
-        main(r, w)
-        self.assert_(w.getvalue() == "<first>\n<second>\n</second>\n</first>")
-
-    def test_main_2 (self) :
-        r = StringIO.StringIO("<first>\n<s>\n</s>\n</first>")
-        w = StringIO.StringIO()
-        main(r, w)
-        self.assert_(w.getvalue() == "<first>\n<s>\n</s>\n</first>")
-
-    def test_main_3 (self) :
-        r = StringIO.StringIO("<first><second></second></first>")
-        w = StringIO.StringIO()
-        main(r, w)
-        self.assert_(w.getvalue() == "<first><second /></first>")
+        self.assert_(returnValue == "drop table if exists criName;\nCREATE TABLE criName(crisisIdent text,Name text);\ninsert into criName (crisisIdent, Name) values ('GJD12', 'Bombing');\n"
 
 
 
@@ -79,8 +73,6 @@ class TestWCDB (unittest.TestCase) :
     def test_login_3 (self) :
         c = login()
         assert str(type(c)) == "<type '_mysql.connection'>"
-
-
 
 
 print "TestWCDB2.py"
