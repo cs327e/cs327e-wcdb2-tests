@@ -1,0 +1,427 @@
+<WorldCrises>
+	
+	<!--Crises-->
+	
+	<Crisis crisisIdent="YF1988">
+		<Name>Yellowstone Forest Fires of 1988</Name>
+		<Kind crisisKindIdent="Wildfire"></Kind>
+		<Location>
+			<Locality>Yellowstone National Park</Locality>
+			<Region>Wyoming</Region>
+			<Country>United States of America</Country>
+		</Location>
+		<StartDateTime><Date>1988-06-23</Date></StartDateTime>
+		<EndDateTime><Date>1988-11-18</Date></EndDateTime>
+	</Crisis>
+	
+	<!--ORGANIZATIONS-->
+	
+	<Organization organizationIdent="WNG">
+			<Name>Wyoming National Guard</Name>
+			<Kind organizationKindIdent="Government"></Kind>
+			<Location>
+				<Locality>Washington D.C.</Locality>
+				<Region></Region>
+				<Country>United States of America</Country>
+			</Location>
+			<History>Founded 1870-04-04.</History>		
+	</Organization>
+	
+	<Person personIdent="RJoseph">
+		<Name>
+			<FirstName>Raymond</FirstName>
+			<MiddleName></MiddleName>
+			<LastName>Joseph</LastName>
+			<Suffix></Suffix>
+		</Name>
+		<Kind personKindIdent="Official"></Kind>
+		<Location>
+			<Locality>Les Cayes</Locality>
+			<Country>Haiti</Country>
+		</Location>
+	</Person>
+	
+</WorldCrises>
+
+
+<WorldCrises>
+	
+		<Crisis crisisIdent="GF1993">
+			<Name>Great Flood of 1993</Name>
+			<Kind crisisKindIdent="Flood"></Kind>
+			<Location>
+				<Region>Mississippi, Louisiana, Iowa, Kansas, Minnesota, Missouri, Nebraska</Region>
+				<Country>United States of America</Country>
+			</Location>
+			<StartDateTime>
+				<Date>1993-04-01 </Date></StartDateTime>
+			<EndDateTime><Date>1993-10-01</Date></EndDateTime>
+		<HumanImpact><Type>Casualties</Type><Number> 50</Number></HumanImpact>
+		<EconomicImpact>Damages: $15-20 billion</EconomicImpact>
+		<ResourceNeeded>Sandbags; Army Corps of Engineers; Army National Guard; American Red Cross</ResourceNeeded>
+		<WaysToHelp>Donation to American Red Cross</WaysToHelp>
+
+	</Crisis>
+	
+		<Organization organizationIdent="NOAA">
+			<Name>National Oceanic and Atmospheric Administration</Name>
+			<Kind organizationKindIdent="Government"></Kind>
+			<Location>
+				<Locality>Washington D.C.</Locality>
+				<Region></Region>
+				<Country>United States of America</Country>
+			</Location>
+	</Organization>
+	
+	<Person personIdent="RJoseph">
+		<Name>
+			<FirstName>Raymond</FirstName>
+			<MiddleName></MiddleName>
+			<LastName>Joseph</LastName>
+			<Suffix></Suffix>
+		</Name>
+		<Kind personKindIdent="Official"></Kind>
+	</Person>
+</WorldCrises>
+
+
+<WorldCrises>
+	
+		<Crisis crisisIdent="GS1987">
+			<Name>Great Storm of 1987</Name>
+			<Kind crisisKindIdent="Storm"></Kind>
+			<Location>
+				<Locality>Cornwall (UK)</Locality>
+				<Country>England</Country>
+			</Location>
+				
+	</Crisis>
+
+	
+		<Organization organizationIdent="FCGB">
+			<Name>Forestry Commission Great Britain</Name>
+			<Kind organizationKindIdent="Government"></Kind>
+			<Location>
+				<Locality></Locality>
+				<Region></Region>
+				<Country>England</Country>
+			</Location>
+			
+	</Organization>
+	
+	<Person personIdent="RJoseph">
+		<Name>
+			<FirstName>Raymond</FirstName>
+			<MiddleName></MiddleName>
+			<LastName>Joseph</LastName>
+			<Suffix></Suffix>
+		</Name>
+		<Kind personKindIdent="Official"></Kind>
+		
+	</Person>
+	</WorldCrises>
+	
+	<?xml version="1.0" ?>
+<WorldCrises>
+	
+	<!--Crises-->
+	
+	
+	<Crisis crisisIdent="BC1991">
+			<Name>Bangladesh Cyclone</Name>
+			<Kind crisisKindIdent="Cyclone"></Kind>
+			<Location>
+				<Locality>Chittagong</Locality>
+				<Country>Bangladesh</Country>
+			</Location>
+				
+	</Crisis>
+	
+	
+	<!--ORGANIZATIONS-->
+	
+		<Organization organizationIdent="ARC">
+			<Name>American Red Cross</Name>
+			<Kind organizationKindIdent="Social"></Kind>
+			<Location>
+				<Locality>Washington D.C.</Locality>
+				<Region></Region>
+				<Country>United States of America</Country>
+			</Location>
+				<History>Founded 1881-05-21</History>
+		
+	</Organization>
+	
+
+	
+	<Person personIdent="GWBush">
+		<Name>
+			<FirstName>George</FirstName>
+			<MiddleName>Walker</MiddleName>
+			<LastName>Bush</LastName>
+			<Suffix></Suffix>
+		</Name>
+		<Kind personKindIdent="Leader"></Kind>
+		
+	</Person>
+	
+	
+</WorldCrises>
+
+<?xml version="1.0" ?>
+<WorldCrises>
+	
+	<!--Crises-->
+	
+	
+	<Crisis crisisIdent="HE2010">
+			<Name>Haiti Earthquake</Name>
+			<Kind crisisKindIdent="Earthquake"></Kind>
+			<Location>
+				<Locality>Port-au-Prince</Locality>
+				<Country>Haiti</Country>
+			</Location>
+				
+	</Crisis>
+	
+	
+	<!--ORGANIZATIONS-->
+	
+	
+		<Organization organizationIdent="HF">
+			<Name>Humanity First</Name>
+			<Kind organizationKindIdent="Social"></Kind>
+			<Location>
+				<Locality>London</Locality>
+				<Region></Region>
+				<Country>England</Country>
+			</Location>			
+	</Organization>
+	
+	<Person personIdent="BGiles">
+		<Name>
+			<FirstName>Bill</FirstName>
+			<MiddleName></MiddleName>
+			<LastName>Giles</LastName>
+			<Suffix></Suffix>
+		</Name>
+		<Kind personKindIdent="Personality"></Kind>
+		
+	</Person>
+	
+</WorldCrises>
+
+<WorldCrises>
+	
+	<!--Crises-->
+	
+	<Crisis crisisIdent="YF1988">
+		<Name>Yellowstone Forest Fires of 1988</Name>
+		<Kind crisisKindIdent="Wildfire"></Kind>
+		<Location>
+			<Locality>Yellowstone National Park</Locality>
+			<Region>Wyoming</Region>
+			<Country>United States of America</Country>
+		</Location>
+		<StartDateTime><Date>1988-06-23</Date></StartDateTime>
+		<EndDateTime><Date>1988-11-18</Date></EndDateTime>
+	</Crisis>
+	
+	<!--ORGANIZATIONS-->
+	
+	<Organization organizationIdent="WNG">
+			<Name>Wyoming National Guard</Name>
+			<Kind organizationKindIdent="Government"></Kind>
+			<Location>
+				<Locality>Washington D.C.</Locality>
+				<Region></Region>
+				<Country>United States of America</Country>
+			</Location>
+			<History>Founded 1870-04-04.</History>		
+	</Organization>
+	
+	<Person personIdent="GWBush">
+		<Name>
+			<FirstName>George</FirstName>
+			<MiddleName>Walker</MiddleName>
+			<LastName>Bush</LastName>
+			<Suffix></Suffix>
+		</Name>
+		<Kind personKindIdent="Leader"></Kind>
+		
+	</Person>
+	
+</WorldCrises>
+
+
+<WorldCrises>
+	
+	<!--Crises-->
+
+		<Crisis crisisIdent="GF1993">
+			<Name>Great Flood of 1993</Name>
+			<Kind crisisKindIdent="Flood"></Kind>
+			<Location>
+				<Region>Mississippi, Louisiana, Iowa, Kansas, Minnesota, Missouri, Nebraska</Region>
+				<Country>United States of America</Country>
+			</Location>
+			<StartDateTime>
+				<Date>1993-04-01 </Date></StartDateTime>
+			<EndDateTime><Date>1993-10-01</Date></EndDateTime>
+		<HumanImpact><Type>Casualties</Type><Number> 50</Number></HumanImpact>
+		<EconomicImpact>Damages: $15-20 billion</EconomicImpact>
+		<ResourceNeeded>Sandbags; Army Corps of Engineers; Army National Guard; American Red Cross</ResourceNeeded>
+		<WaysToHelp>Donation to American Red Cross</WaysToHelp>
+
+		<RelatedOrganizations>
+			<RelatedOrganization organizationIdent="NOAA" />
+		</RelatedOrganizations>
+	</Crisis>
+	
+	<Organization organizationIdent="HF">
+			<Name>Humanity First</Name>
+			<Kind organizationKindIdent="Social"></Kind>
+			<Location>
+				<Locality>London</Locality>
+				<Region></Region>
+				<Country>England</Country>
+			</Location>			
+	</Organization>
+	
+	<Person personIdent="RJoseph">
+		<Name>
+			<FirstName>Raymond</FirstName>
+			<MiddleName></MiddleName>
+			<LastName>Joseph</LastName>
+			<Suffix></Suffix>
+		</Name>
+		<Kind personKindIdent="Official"></Kind>
+	</Person>
+</WorldCrises>
+
+
+<WorldCrises>
+	
+		<Crisis crisisIdent="GS1987">
+			<Name>Great Storm of 1987</Name>
+			<Kind crisisKindIdent="Storm"></Kind>
+			<Location>
+				<Locality>Cornwall (UK)</Locality>
+				<Country>England</Country>
+			</Location>
+				
+	</Crisis>
+
+	
+		<Organization organizationIdent="FCGB">
+			<Name>Forestry Commission Great Britain</Name>
+			<Kind organizationKindIdent="Government"></Kind>
+			<Location>
+				<Locality></Locality>
+				<Region></Region>
+				<Country>England</Country>
+			</Location>
+			
+	</Organization>
+	
+	<Person personIdent="BGiles">
+		<Name>
+			<FirstName>Bill</FirstName>
+			<MiddleName></MiddleName>
+			<LastName>Giles</LastName>
+			<Suffix></Suffix>
+		</Name>
+		<Kind personKindIdent="Personality"></Kind>
+		
+	</Person>
+	</WorldCrises>
+	
+	<?xml version="1.0" ?>
+<WorldCrises>
+	
+	<!--Crises-->
+	
+	
+	<Crisis crisisIdent="BC1991">
+			<Name>Bangladesh Cyclone</Name>
+			<Kind crisisKindIdent="Cyclone"></Kind>
+			<Location>
+				<Locality>Chittagong</Locality>
+				<Country>Bangladesh</Country>
+			</Location>
+				
+	</Crisis>
+	
+	
+	<!--ORGANIZATIONS-->
+	
+		<Organization organizationIdent="FCGB">
+			<Name>Forestry Commission Great Britain</Name>
+			<Kind organizationKindIdent="Government"></Kind>
+			<Location>
+				<Locality></Locality>
+				<Region></Region>
+				<Country>England</Country>
+			</Location>
+			
+	</Organization>
+	
+
+	
+	<Person personIdent="GWBush">
+		<Name>
+			<FirstName>George</FirstName>
+			<MiddleName>Walker</MiddleName>
+			<LastName>Bush</LastName>
+			<Suffix></Suffix>
+		</Name>
+		<Kind personKindIdent="Leader"></Kind>
+		
+	</Person>
+	
+	
+</WorldCrises>
+
+<?xml version="1.0" ?>
+<WorldCrises>
+	
+	<!--Crises-->
+	
+	
+	<Crisis crisisIdent="HE2010">
+			<Name>Haiti Earthquake</Name>
+			<Kind crisisKindIdent="Earthquake"></Kind>
+			<Location>
+				<Locality>Port-au-Prince</Locality>
+				<Country>Haiti</Country>
+			</Location>
+				
+	</Crisis>
+	
+	
+	<!--ORGANIZATIONS-->
+	
+	
+		<Organization organizationIdent="WNG">
+			<Name>Wyoming National Guard</Name>
+			<Kind organizationKindIdent="Government"></Kind>
+			<Location>
+				<Locality>Washington D.C.</Locality>
+				<Region></Region>
+				<Country>United States of America</Country>
+			</Location>
+			<History>Founded 1870-04-04.</History>		
+	</Organization>
+	
+	<Person personIdent="BGiles">
+		<Name>
+			<FirstName>Bill</FirstName>
+			<MiddleName></MiddleName>
+			<LastName>Giles</LastName>
+			<Suffix></Suffix>
+		</Name>
+		<Kind personKindIdent="Personality"></Kind>
+		
+	</Person>
+	
+</WorldCrises>
